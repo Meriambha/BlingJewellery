@@ -1,0 +1,1055 @@
+<!DOCTYPE html><html lang="en" prefix="og: http://ogp.me/ns#">
+<head><meta charset="utf-8">
+<script src="https://cdn-au.onetrust.com/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="52f0ce5e-0c2d-48a6-8e40-e978c5058a96"></script>
+<script>
+            function OptanonWrapper() { }
+        </script>
+
+<script>
+        window.RECAPTCHA_SITE_KEY = "6Lf8Bg4UAAAAAJ9KPbr_AoCbQ5l9jDqcuaLAgBDM";
+        window.RECAPTCHA_V3_SITE_KEY = "6LeyhLIaAAAAAI8XfF3RoG62z0L0RLUrgGVb1p_z";
+        function onRecaptchaReady() {
+            if (document) {
+                document.dispatchEvent(new CustomEvent('px:recaptcha-ready'));
+            }
+        }
+    </script>
+<script src="https://www.recaptcha.net/recaptcha/api.js?render=6LeyhLIaAAAAAI8XfF3RoG62z0L0RLUrgGVb1p_z&onload=onRecaptchaReady" async defer></script>
+
+<script>
+        window.dataLayer = window.dataLayer || [];
+        window.dataLayer.push({"qForAds":"photo:en:diamonds heart:POL","tags":"diamonds, heart, white, love, valentines, diamond, red, february, 14, valentine, 3d, rendered, artwork, valentines day, gemstones, precious, luxury, bright, brilliant, geometric, jewel, jewels, design, gem, red love, red heart, red design, red diamond","searchQuery":"","locale":"en","country":"pl"});
+    </script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl+ '&gtm_auth=EzJCsJwDfVlqG8d1K6KKOg&gtm_preview=env-1&gtm_cookies_win=x';f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-5CF9ZN');</script>
+
+<script>
+        window.i18n = Object.assign({}, window.i18n, {
+            photo: 'photo',
+            video: 'video',
+            audio: 'audio',
+            UserFollowedNotification: 'followed you ',
+
+            PhotoLikedNotification: 'liked your photo',
+            VideoLikedNotification: 'liked your video',
+            AudioLikedNotification: 'liked your audio',
+
+            PhotoCommentedNotification: 'commented on your photo',
+            VideoCommentedNotification: 'commented on your video',
+            AudioCommentedNotification: 'commented on your audio',
+
+            NoNotifications: 'No notifications to show',
+            viewMore: 'View more notifications',
+            others: 'others ',
+            other: 'other ',
+            
+            CinemagraphsProcessedNotification: 'Your cinemagraph is ready to view!',
+        });
+    </script>
+<link rel="canonical" href="https://pixabay.com/photos/diamonds-heart-white-love-2713667/">
+<link rel="alternate" hreflang="cs" href="https://pixabay.com/cs/photos/diamanty-srdce-b%c3%adl%c3%bd-milovat-2713667/"><link rel="alternate" hreflang="da" href="https://pixabay.com/da/photos/diamanter-hjerte-hvid-elsker-2713667/"><link rel="alternate" hreflang="de" href="https://pixabay.com/de/photos/diamanten-herz-wei%c3%9f-liebe-2713667/"><link rel="alternate" hreflang="en" href="https://pixabay.com/photos/diamonds-heart-white-love-2713667/"><link rel="alternate" hreflang="es" href="https://pixabay.com/es/photos/diamantes-coraz%c3%b3n-blanco-amor-2713667/"><link rel="alternate" hreflang="fr" href="https://pixabay.com/fr/photos/diamants-c%c5%93ur-blanche-amour-2713667/"><link rel="alternate" hreflang="id" href="https://pixabay.com/id/photos/berlian-jantung-putih-cinta-2713667/"><link rel="alternate" hreflang="it" href="https://pixabay.com/it/photos/diamanti-cuore-bianca-amore-2713667/"><link rel="alternate" hreflang="hu" href="https://pixabay.com/hu/photos/gy%c3%a9m%c3%a1ntok-sz%c3%adv-feh%c3%a9r-szeretet-2713667/"><link rel="alternate" hreflang="nl" href="https://pixabay.com/nl/photos/diamanten-hart-wit-dol-zijn-op-2713667/"><link rel="alternate" hreflang="no" href="https://pixabay.com/no/photos/diamanter-hjerte-hvit-kj%c3%a6rlighet-2713667/"><link rel="alternate" hreflang="pl" href="https://pixabay.com/pl/photos/diamenty-serce-bia%c5%82y-mi%c5%82o%c5%9b%c4%87-2713667/"><link rel="alternate" hreflang="pt" href="https://pixabay.com/pt/photos/diamantes-cora%c3%a7%c3%a3o-branco-amor-2713667/"><link rel="alternate" hreflang="ro" href="https://pixabay.com/ro/photos/diamante-inima-alb-dragoste-2713667/"><link rel="alternate" hreflang="sk" href="https://pixabay.com/sk/photos/diamanty-srdce-biely-l%c3%a1ska-2713667/"><link rel="alternate" hreflang="fi" href="https://pixabay.com/fi/photos/timantteja-syd%c3%a4n-valkoinen-rakkaus-2713667/"><link rel="alternate" hreflang="sv" href="https://pixabay.com/sv/photos/ruter-hj%c3%a4rta-vit-k%c3%a4rlek-2713667/"><link rel="alternate" hreflang="tr" href="https://pixabay.com/tr/photos/elmaslar-kalp-beyaz-a%c5%9fk-sevgililer-2713667/"><link rel="alternate" hreflang="vi" href="https://pixabay.com/vi/photos/kim-c%c6%b0%c6%a1ng-tr%c3%a1i-tim-tr%e1%ba%afng-y%c3%aau-v%c3%a0-qu%c3%bd-2713667/"><link rel="alternate" hreflang="th" href="https://pixabay.com/th/photos/%e0%b9%80%e0%b8%9e%e0%b8%8a%e0%b8%a3-%e0%b8%ab%e0%b8%b1%e0%b8%a7%e0%b9%83%e0%b8%88-%e0%b8%aa%e0%b8%b5%e0%b8%82%e0%b8%b2%e0%b8%a7-%e0%b8%a3%e0%b8%b1%e0%b8%81-%e0%b8%a7%e0%b8%b2%e0%b9%80%e0%b8%a5%e0%b8%99%e0%b9%84%e0%b8%97%e0%b8%99%e0%b9%8c-2713667/"><link rel="alternate" hreflang="bg" href="https://pixabay.com/bg/photos/%d0%b4%d0%b8%d0%b0%d0%bc%d0%b0%d0%bd%d1%82%d0%b8-%d1%81%d1%8a%d1%80%d1%86%d0%b5-%d0%b1%d1%8f%d0%bb-%d0%bb%d1%8e%d0%b1%d0%be%d0%b2-2713667/"><link rel="alternate" hreflang="ru" href="https://pixabay.com/ru/photos/%d0%b1%d1%80%d0%b8%d0%bb%d0%bb%d0%b8%d0%b0%d0%bd%d1%82%d1%8b-%d1%81%d0%b5%d1%80%d0%b4%d1%86%d0%b5-%d0%b1%d0%b5%d0%bb%d1%8b%d0%b9-%d0%bb%d1%8e%d0%b1%d0%be%d0%b2%d1%8c-2713667/"><link rel="alternate" hreflang="el" href="https://pixabay.com/el/photos/%ce%b4%ce%b9%ce%b1%ce%bc%ce%ac%ce%bd%cf%84%ce%b9%ce%b1-%ce%ba%ce%b1%cf%81%ce%b4%ce%b9%ce%ac-%ce%bb%ce%b5%cf%85%ce%ba%cf%8c-%ce%b1%ce%b3%ce%ac%cf%80%ce%b7-2713667/"><link rel="alternate" hreflang="ja" href="https://pixabay.com/ja/photos/%e3%83%80%e3%82%a4%e3%83%a4%e3%83%a2%e3%83%b3%e3%83%89-%e5%bf%83%e8%87%93-%e7%99%bd%e3%81%84-%e6%84%9b-2713667/"><link rel="alternate" hreflang="ko" href="https://pixabay.com/ko/photos/%eb%8b%a4%ec%9d%b4%ec%95%84-%ed%8c%a8-%ed%95%9c-%eb%b2%8c-%eb%a7%88%ec%9d%8c-%ed%95%98%ec%96%80%ec%83%89-2713667/"><link rel="alternate" hreflang="zh" href="https://pixabay.com/zh/photos/diamonds-heart-white-love-2713667/">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#02be6e">
+<meta name="theme-color" content="#4ea64e">
+<link rel="search" type="application/opensearchdescription+xml" title="Pixabay" href="https://pixabay.com/static/misc/opensearch.xml">
+<meta name="google-site-verification" content="HhI1AC5Q4nvvEU1FQvb0QvGrPADs351JXl4IRVGSnnk" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/static/css/min/base.f6f8cb00.min.css?f">
+
+<link rel="preload" href="/static/fonts/open_sans/opensans-400-latin21.woff2" as="font" crossorigin="anonymous" />
+
+<link rel="preload" href="/static/fonts/open_sans/opensans-700-latin35.woff2" as="font" crossorigin="anonymous" />
+<link rel="preload" href="/static/js/min/base.bf16f999.min.js?f" as="script" crossorigin="anonymous" />
+<!--[if lt IE 9]><script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script><![endif]-->
+<title>Diamonds Heart White - Free photo on Pixabay</title>
+<meta name="description" content="Download this free photo of Diamonds Heart White from Pixabay&#39;s vast library of royalty-free stock images, videos and music.">
+<meta property="og:image" content="https://cdn.pixabay.com/photo/2017/09/04/11/53/diamonds-2713667_640.jpg">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Free Image on Pixabay - Diamonds, Heart, White, Love">
+<meta name="twitter:card" content="photo">
+<meta name="twitter:site" content="@pixabay">
+<meta name="twitter:title" content="Free Image on Pixabay - Diamonds, Heart, White, Love">
+<meta name="twitter:image" content="https://cdn.pixabay.com/photo/2017/09/04/11/53/diamonds-2713667_640.jpg">
+<meta name="twitter:image:width" content="640">
+<meta name="twitter:image:height" content="504">
+</head>
+<body class="ua-authenticated is-authenticated ">
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5CF9ZN&gtm_auth=EzJCsJwDfVlqG8d1K6KKOg&gtm_preview=env-1&gtm_cookies_win=x"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<div id="wrapper">
+<div id="header">
+<div id="header_inner">
+<div class="pure-menu pure-menu-horizontal pure-menu-open">
+<ul><li class="pure-dropdown hide-xs hide-sm hide-md pure-menu-list-item"><a>Explore <i class="dropdown_arrow hide-xs"></i></a><ul id="clone_to_mobile_menu" class="pure-menu-children"><li><div class="columns-menu"><div><b>Media</b><a href="/photos/">Photos</a><a href="/illustrations/">Illustrations</a><a href="/vectors/">Vectors</a><a href="/videos/">Videos</a><a href="/music/">Music</a><a href="/sound-effects/">Sound Effects</a><hr><a href="/editors_choice/">Editor's Choice</a><a href="/collections/">Curated Collections</a><a href="/images/search/">Popular Images</a><a href="/videos/search/">Popular Videos</a><a href="/popular-searches/">Popular Searches</a></div><div><b>Community</b><a href="/blog/">Blog</a><a href="/forum/">Forum</a><a href="/users/">Artists</a><a href="/cameras/">Cameras</a></div><div><div class="last-column"><div><b>About</b><a href="/service/faq/">FAQ</a><a href="/service/terms/">Terms</a><a href="/service/privacy/">Privacy</a><a href="/service/about/">About Us</a><a href="/service/cookies/">Cookie Policy</a><a href="/service/about/api/">API</a><a class="dd_box menu language_menu"><i class="icon icon_language"></i> Language</a><div><a onmousedown="setCookie('lang', 'cs', 3650);" href="https://pixabay.com/cs/photos/diamonds-heart-white-love-2713667/">Čeština</a><a onmousedown="setCookie('lang', 'da', 3650);" href="https://pixabay.com/da/photos/diamonds-heart-white-love-2713667/">Dansk</a><a onmousedown="setCookie('lang', 'de', 3650);" href="https://pixabay.com/de/photos/diamonds-heart-white-love-2713667/">Deutsch</a><a onmousedown="setCookie('lang', 'en', 3650);" href="https://pixabay.com/photos/diamonds-heart-white-love-2713667/">English</a><a onmousedown="setCookie('lang', 'es', 3650);" href="https://pixabay.com/es/photos/diamonds-heart-white-love-2713667/">Español</a><a onmousedown="setCookie('lang', 'fr', 3650);" href="https://pixabay.com/fr/photos/diamonds-heart-white-love-2713667/">Français</a><a onmousedown="setCookie('lang', 'id', 3650);" href="https://pixabay.com/id/photos/diamonds-heart-white-love-2713667/">Indonesia</a><a onmousedown="setCookie('lang', 'it', 3650);" href="https://pixabay.com/it/photos/diamonds-heart-white-love-2713667/">Italiano</a><a onmousedown="setCookie('lang', 'hu', 3650);" href="https://pixabay.com/hu/photos/diamonds-heart-white-love-2713667/">Magyar</a><a onmousedown="setCookie('lang', 'nl', 3650);" href="https://pixabay.com/nl/photos/diamonds-heart-white-love-2713667/">Nederlands</a><a onmousedown="setCookie('lang', 'no', 3650);" href="https://pixabay.com/no/photos/diamonds-heart-white-love-2713667/">Norsk</a><a onmousedown="setCookie('lang', 'pl', 3650);" href="https://pixabay.com/pl/photos/diamonds-heart-white-love-2713667/">Polski</a><a onmousedown="setCookie('lang', 'pt', 3650);" href="https://pixabay.com/pt/photos/diamonds-heart-white-love-2713667/">Português</a><a onmousedown="setCookie('lang', 'ro', 3650);" href="https://pixabay.com/ro/photos/diamonds-heart-white-love-2713667/">Română</a><a onmousedown="setCookie('lang', 'sk', 3650);" href="https://pixabay.com/sk/photos/diamonds-heart-white-love-2713667/">Slovenčina</a><a onmousedown="setCookie('lang', 'fi', 3650);" href="https://pixabay.com/fi/photos/diamonds-heart-white-love-2713667/">Suomi</a><a onmousedown="setCookie('lang', 'sv', 3650);" href="https://pixabay.com/sv/photos/diamonds-heart-white-love-2713667/">Svenska</a><a onmousedown="setCookie('lang', 'tr', 3650);" href="https://pixabay.com/tr/photos/diamonds-heart-white-love-2713667/">Türkçe</a><a onmousedown="setCookie('lang', 'vi', 3650);" href="https://pixabay.com/vi/photos/diamonds-heart-white-love-2713667/">Việt</a><a onmousedown="setCookie('lang', 'th', 3650);" href="https://pixabay.com/th/photos/diamonds-heart-white-love-2713667/">ไทย</a><a onmousedown="setCookie('lang', 'bg', 3650);" href="https://pixabay.com/bg/photos/diamonds-heart-white-love-2713667/">Български</a><a onmousedown="setCookie('lang', 'ru', 3650);" href="https://pixabay.com/ru/photos/diamonds-heart-white-love-2713667/">Русский</a><a onmousedown="setCookie('lang', 'el', 3650);" href="https://pixabay.com/el/photos/diamonds-heart-white-love-2713667/">Ελληνική</a><a onmousedown="setCookie('lang', 'ja', 3650);" href="https://pixabay.com/ja/photos/diamonds-heart-white-love-2713667/">日本語</a><a onmousedown="setCookie('lang', 'ko', 3650);" href="https://pixabay.com/ko/photos/diamonds-heart-white-love-2713667/">한국어</a><a onmousedown="setCookie('lang', 'zh', 3650);" href="https://pixabay.com/zh/photos/diamonds-heart-white-love-2713667/">简体中文</a></div></div><div><hr><div class="menu-social-icons"><div><div><a href="https://www.facebook.com/pixabay" target="_blank"><i class="icon icon_facebook_fff"></i></a></div><div><a href="https://www.instagram.com/pixabay/" target="_blank"><i class="icon icon_instagram_fff"></i></a></div><div><a href="https://twitter.com/pixabay" target="_blank"><i class="icon icon_twitter_fff"></i></a></div></div></div></div></div></div></div></li></ul></li><li class="pure-dropdown notifications-container ua-notifications-trigger"><a class='notification-button notifications-display-button ua-notifications-trigger'><i class='pixicon2-notifications ua-notifications-trigger'></i></a><ul class="pure-menu-children notifications-container-children"><li class='notifications-list-item-container'><b class='notification-title'>
+Notifications
+</b><div class='notification-item-container'><p class='notification-empty notification-loading'>
+Loading...
+</p></div></li></ul></li><li class="pure-dropdown pure-menu-list-item"><a data-user-profile='/users/u_gg8y3a8t47-27429613/' href="/users/u_gg8y3a8t47-27429613/"><div style="width:30px;height:22px"><img class="profile_image" alt="" srcset="/static/img/profile_image_dummy.svg 1x, /static/img/profile_image_dummy.svg 2x" src="/static/img/profile_image_dummy.svg"></div></a><ul class="pure-menu-children"><li><div id="mobile_menu_top" class="hide-sm hide-md hide-lg hide-xl"><a href="/accounts/media/upload/" class="pure-button button-green ua-upload-button"><i class="icon icon_upload"></i> Upload</a></div></li><li><a href="/users/u_gg8y3a8t47-27429613/">My profile</a></li><li><a href="/accounts/media/">My media</a></li><li class="hide-xs"><a href="/accounts/media/upload/">Upload</a></li><li><a href="/accounts/media/statistics/">Statistics</a></li><li><a href="/accounts/collections/">Collections</a></li><li><a href="/accounts/following/">Following</a></li><li><a href="/accounts/messages/inbox/">Messages</a></li><li><a href="/accounts/settings/">Settings</a></li><li class="pure-menu-separator hide-xs hide-sm"></li><li class="hide-xs hide-sm"><a href="/images/tools/quality_rating/">Community voting</a></li><li class="pure-menu-separator"></li><li><form method="post" action="/accounts/logout/"><input type='hidden' name='csrfmiddlewaretoken' value='7GAr2X0kVfcIob4OIZqJ3uuZlgjso3e0vfdQxBymadWJwBwnpZCGN8hCiUhqLO87' /></form><a href="#" onclick="this.previousElementSibling.submit(); return false">Log out</a></li></ul></li><li class="hide-xs"><a href="/accounts/media/upload/" class="pure-button button-green ua-upload-button"><i class="icon icon_upload"></i> Upload</a></li><li class="pure-dropdown hide-lg hide-xl pure-menu-list-item"><a><i class="icon icon_mobile_menu"></i></a><ul id="mobile_menu" class="pure-menu-children"></ul></li></ul>
+</div>
+<a id="logo_authenticated" href="/"></a>
+<i class="toggle_mobile_search icon icon_menu_loupe"></i>
+<div id="media_type_menu" class="hide-xs hide-sm hide-md hide-lg">
+<a href="/photos/" class="selected">Photos</a>
+<a href="/illustrations/">Illustrations</a>
+<a href="/vectors/">Vectors</a>
+<a href="/videos/">Videos</a>
+<a href="/music/">Music</a>
+<a href="/sound-effects/">Sound Effects</a>
+</div>
+<div id="mobile_search_background">
+<span class="pure-button button-md" style="float:right;margin:11px 14px 0 0;border-radius:2px!important;padding:9px 12px 9px;color:#7a7e98">✖</span>
+</div>
+<div class='media_search_container'>
+<form class="media_search header_search" action="/photos/search/" method="get"><div><div class="dd_box menu" data-left="1"><span class="image_type" style="margin-right:2px">Photos</span><i class="dropdown_arrow"></i></div><div class="pure-form bubble sw"><div class="select_image_type"><span data-type="image">Images</span><span data-type="photo" style="padding-left:30px">Photos</span><span data-type="vector" style="padding-left:30px">Vector graphics</span><span data-type="illustration" style="padding-left:30px">Illustrations</span><span data-type="video">Videos</span><span data-type="music">Music</span><span data-type="sound-effects">Sound Effects</span><span data-type="user">Users</span></div><hr><a href=" /blog/posts/id-46/" target="_blank"> Search options →</a></div><input type="submit" value=" " class="loupe"><span><input class="q" type="text" name="q" value="" placeholder="Search" data-autofocus></span><div style="position:absolute;left:-9999px"><input type="text" name="hp" autocomplete="off" tabindex="-1" value=""><input type="hidden" name="order" value=""><input type="hidden" name="cat" value=""><input type="checkbox" name="orientation" value="horizontal"><input type="checkbox" name="orientation" value="vertical"><input type="hidden" name="min_width" value=""><input type="hidden" name="min_height" value=""><input type="checkbox" name="colors" value="transparent"><input type="checkbox" name="colors" value="grayscale"><input type="checkbox" name="colors" value="red"><input type="checkbox" name="colors" value="orange"><input type="checkbox" name="colors" value="yellow"><input type="checkbox" name="colors" value="green"><input type="checkbox" name="colors" value="turquoise"><input type="checkbox" name="colors" value="blue"><input type="checkbox" name="colors" value="lilac"><input type="checkbox" name="colors" value="pink"><input type="checkbox" name="colors" value="white"><input type="checkbox" name="colors" value="gray"><input type="checkbox" name="colors" value="black"><input type="checkbox" name="colors" value="brown"><input type="checkbox" name="animation" value="1"><input type="checkbox" name="slow_motion" value="1"><input type="checkbox" name="time_lapse" value="1"><input type="checkbox" name="resolution_4k" value="1"><input type="checkbox" name="resolution_hd" value="1"></div></div></form>
+</div>
+</div></div>
+<div id="content" class="clearfix">
+<div id="media_show" class="photo">
+<div id="media_show" class="photo media-show">
+<div class="left"><div class="inside">
+<div class="download_menu mobile_menu" data-type="images">
+<span class="pure-button button-green ua-download-open-menu " style="display:block;max-width:310px;margin:10px 0 0"><i class="icon icon_download"></i> Free Download</span>
+<div class="bubble" style="padding:15px">
+<table>
+<tr><td><input type="radio" name="download" value="diamonds-2713667_640.jpg"> 640×504</td><td>JPG</td><td>104 kB</td></tr>
+<tr><td><input type="radio" name="download" value="diamonds-2713667_1280.jpg" data-perm="check"> 1280×1009</td><td>JPG</td><td>343 kB</td></tr>
+<tr><td><input type="radio" name="download" value="diamonds-2713667_1920.jpg" data-perm="check"> 1920×1514</td><td>JPG</td><td>727 kB</td></tr>
+<tr class="no_default"><td><input type="radio" name="download" value="diamonds-2713667.jpg" data-perm="auth"> 4900×3865</td><td>JPG</td><td>5.0 MB</td></tr>
+</table>
+<a target="_blank" class="view_btn pure-button button-md ua-view-button" data-w="332" style="display:inline-block;width:49%;float:right">View</a>
+<a class="dl_btn pure-button button-green button-md ua-download-button" data-w="332" style="display:inline-block;width:49%;">Download</a>
+</div>
+</div>
+<div style="text-align:center">
+<div id="media_container" class="init">
+<picture>
+<source src="https://cdn.pixabay.com/photo/2017/09/04/11/53/diamonds-2713667_640.jpg" srcset="https://cdn.pixabay.com/photo/2017/09/04/11/53/diamonds-2713667_640.jpg" media="(max-width: 360px)" />
+<source srcset="https://cdn.pixabay.com/photo/2017/09/04/11/53/diamonds-2713667_640.jpg 1x, https://cdn.pixabay.com/photo/2017/09/04/11/53/diamonds-2713667_1280.jpg 2x" src="https://cdn.pixabay.com/photo/2017/09/04/11/53/diamonds-2713667_640.jpg" media="(max-width: 640px)" />
+<img srcset="https://cdn.pixabay.com/photo/2017/09/04/11/53/diamonds-2713667_960_720.jpg 1x, https://cdn.pixabay.com/photo/2017/09/04/11/53/diamonds-2713667_1280.jpg 2x" src="https://cdn.pixabay.com/photo/2017/09/04/11/53/diamonds-2713667_960_720.jpg" alt="Diamonds, Heart, White, Love, Valentines, Diamond, Red" width="960" height="757.2244897959174" style="height: auto" />
+</picture>
+<div id="say_thanks_overlay" class="hide-xs"><em class="close-attribution-overlay">×</em>
+<div style="color:#fff" class="ua-attribution-overlay">
+<p class="attribution-title" style="font-size:;">Say thanks to the image author</p>
+<p class="attribution-buttons">
+<span style="font-size:15px;line-height:18px" class="pure-button button-green attribution-donate ua-donation-attribution" onclick="$('#donate_button').click();">$ Donate</span>
+</p>
+<p class="crediting-copy" style="">Crediting isn’t required, but linking back is greatly appreciated and allows image authors to gain exposure. You can use the following text:</p>
+<span class="attribution_field ">
+<span>Image by <a href="https://pixabay.com/users/stealth_sly-2437462/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2713667">Silvestre Cajigan</a> from <a href="https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2713667">Pixabay</a></span>
+<input class="copy_to_clipboard copy-attribution-text ua-copy-attribution pure-button" type="button" value="Copy">
+</span>
+<a href="https://www.canva.com/q/pro/?utm_medium=partner&utm_source=pixabay&utm_campaign=1b_link_attribution" class="canva-ad ua-attribution-mau" target="_blank">
+<img src="/static/img/canva_logo_white.svg" alt="Canva" width="92" height="32" />
+<span>
+Create Your Own Designs, Customize With Drag-and-drop Editing And Upload Your Own Images.
+</span>
+<button>
+Create A Free Account Today!
+</button>
+</a>
+</div>
+</div>
+<h1 class='image-category'>
+<span data-href="/service/report/photo/2713667/" data-w="550" class="modal" title="Report"><i class="icon icon_flag"></i></span>
+<a href="/images/search/diamonds/">diamonds</a> <a href="/images/search/heart/">heart</a> <a href="/images/search/white/">white</a> <a href="/images/search/love/">love</a> <a href="/images/search/valentines/">valentines</a> <a href="/images/search/diamond/">diamond</a> <a href="/images/search/red/">red</a>
+</h1>
+</div>
+<a style="position:absolute;left:-9999px" rel="license" about="https://cdn.pixabay.com/photo/2017/09/04/11/53/diamonds-2713667_960_720.jpg" href="https://pixabay.com/service/license/">Public Domain</a>
+</div>
+<div class="present-gtty-item">
+<div style="font-size:14px;color:#a5a8ab;margin:5px 9px">
+Sponsored Images iStock
+- <a class="ua-api-ad-getty" target="_blank" rel="nofollow" href="/link/?ua=cd3%3Dphoto%26cd7%3Den%253Adiamonds%2Bheart%253APOL%26cd4%3D2713667%26ec%3Dapi_ad%26ea%3Dnavigate%26el%3Dgetty%26tid%3DUA-20223345-1%26dr%3Dhttps%253A%252F%252Fpixabay.com%252Fimages%252Fsearch%252Fdiamonds%252F&next=https%3A%2F%2Fwww.istockphoto.com%2F%3Futm_source%3Dpixabay%26utm_medium%3Daffiliate%26utm_campaign%3DADP_photo_sponsored%26utm_content%3Dhttp%253A%252F%252Fpixabay.com%252Fphotos%252Fdiamonds-heart-white-love-2713667%252F%26utm_term%3Ddiamonds%2Bheart&hash=f9ead2b24cbc5c58d53e3e3e7c75326ea82df625&=">LIMITED DEAL: 20% off with <b>PIXABAY20</b> coupon</a>
+<img src="/link/?ua=cd3%3Dphoto%26cd7%3Den%253Adiamonds%2Bheart%253APOL%26cd4%3D2713667%26ec%3Dapi_ad%26ea%3Dpixel%26el%3Dgetty%26tid%3DUA-20223345-1%26dr%3Dhttps%253A%252F%252Fpixabay.com%252Fimages%252Fsearch%252Fdiamonds%252F&next=%2Fstatic%2Fimg%2Fblank.gif&hash=9bb93f9b28f90ff47f7ea5acd1e895e6dd814fad&=" class="hidden">
+</div>
+<div class=" row-masonry  stock-images single-row affil_images affil_medias" data-ad-impression-id="4ebba667-0217-4480-b050-9618509c2915" data-ad-source="getty" data-ad-type="show_media" data-ad-query="en:diamonds heart:POL" data-media-type="photo" data-media-id="2713667" data-view-more-link="/link/?ua=cd3%3Dphoto%26cd7%3Den%253Adiamonds%2Bheart%253APOL%26cd4%3D2713667%26ec%3Dapi_ad%26ea%3Dnavigate%26el%3Dgetty%26tid%3DUA-20223345-1%26dr%3Dhttps%253A%252F%252Fpixabay.com%252Fimages%252Fsearch%252Fdiamonds%252F&next=https%3A%2F%2Fwww.istockphoto.com%2Fen%2Fsearch%2F2%2Fimage%3Fmediatype%3Dphotography%26phrase%3Ddiamonds%2520heart%26utm_source%3Dpixabay%26utm_medium%3Daffiliate%26utm_campaign%3DADP_photo_sponsored%26utm_content%3Dhttp%253A%252F%252Fpixabay.com%252Fphotos%252Fdiamonds-heart-white-love-2713667%252F%26utm_term%3Ddiamonds%2Bheart&hash=2317ee098930bd217e3b4f6987ca9ebea18fb714&=">
+<div class="row-masonry-cell" style="flex-basis: 213.33333333333331px; flex-grow: 1.3333333333333333; flex-shrink: 1.3333333333333333; max-width: 266.66666666666663px">
+<div class="row-masonry-cell-outer" style="padding-top: 75.0%">
+<div class="row-masonry-cell-inner">
+<div class="stock-image item" data-w="4000" data-h="2992">
+<a class="ua-affiliates ua-affil-item ua-api-ad-getty" target="_blank" rel="nofollow" href="/link/?ua=cd3%3Dphoto%26cd7%3Den%253Adiamonds%2Bheart%253APOL%26cd4%3D2713667%26ec%3Dapi_ad%26ea%3Dnavigate%26el%3Dgetty%26tid%3DUA-20223345-1%26dr%3Dhttps%253A%252F%252Fpixabay.com%252Fimages%252Fsearch%252Fdiamonds%252F&next=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Fdiamond-jewel-gm465054998-58893832%3Futm_source%3Dpixabay%26utm_medium%3Daffiliate%26utm_campaign%3DADP_photo_sponsored%26utm_content%3Dhttp%253A%252F%252Fpixabay.com%252Fphotos%252Fdiamonds-heart-white-love-2713667%252F%26utm_term%3Ddiamonds%2Bheart&hash=051f85403bddfdc40e0b5d320773f158b5a9c62e&=">
+<picture>
+<img src="https://media.istockphoto.com/photos/diamond-jewel-picture-id465054998?b=1&k=20&m=465054998&s=170667a&w=0&h=7kjNNjZvbdj-lSfTWQ9dkiwIJyiRt0yuIDfbDT-4HRg=" alt="Sponsored image">
+</picture>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="row-masonry-cell" style="flex-basis: 240.0px; flex-grow: 1.5; flex-shrink: 1.5; max-width: 300.0px">
+<div class="row-masonry-cell-outer" style="padding-top: 66.667%">
+<div class="row-masonry-cell-inner">
+<div class="stock-image item" data-w="3000" data-h="1992">
+<a class="ua-affiliates ua-affil-item ua-api-ad-getty" target="_blank" rel="nofollow" href="/link/?ua=cd3%3Dphoto%26cd7%3Den%253Adiamonds%2Bheart%253APOL%26cd4%3D2713667%26ec%3Dapi_ad%26ea%3Dnavigate%26el%3Dgetty%26tid%3DUA-20223345-1%26dr%3Dhttps%253A%252F%252Fpixabay.com%252Fimages%252Fsearch%252Fdiamonds%252F&next=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Fdiamond-gm181397673-27164436%3Futm_source%3Dpixabay%26utm_medium%3Daffiliate%26utm_campaign%3DADP_photo_sponsored%26utm_content%3Dhttp%253A%252F%252Fpixabay.com%252Fphotos%252Fdiamonds-heart-white-love-2713667%252F%26utm_term%3Ddiamonds%2Bheart&hash=91f43e037e2623fa047e3580292a17f6f2484e65&=">
+<picture>
+<source media="(max-width: 586px)" sizes="1px" srcset="/static/img/blank.gif 1w" />
+<img src="https://media.istockphoto.com/photos/diamond-picture-id181397673?b=1&k=20&m=181397673&s=170667a&w=0&h=Y43dyfttBgU-IFwlglUpWcSMzzyZ3BrFLGdqhlT7Fl8=" alt="Sponsored image">
+</picture>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="row-masonry-cell" style="flex-basis: 182.85714285714283px; flex-grow: 1.1428571428571428; flex-shrink: 1.1428571428571428; max-width: 228.57142857142856px">
+<div class="row-masonry-cell-outer" style="padding-top: 87.5%">
+<div class="row-masonry-cell-inner">
+<div class="stock-image item" data-w="4000" data-h="3492">
+<a class="ua-affiliates ua-affil-item ua-api-ad-getty" target="_blank" rel="nofollow" href="/link/?ua=cd3%3Dphoto%26cd7%3Den%253Adiamonds%2Bheart%253APOL%26cd4%3D2713667%26ec%3Dapi_ad%26ea%3Dnavigate%26el%3Dgetty%26tid%3DUA-20223345-1%26dr%3Dhttps%253A%252F%252Fpixabay.com%252Fimages%252Fsearch%252Fdiamonds%252F&next=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Fred-heart-shaped-diamond-isolated-on-white-background-3d-render-gm1354588509-429365374%3Futm_source%3Dpixabay%26utm_medium%3Daffiliate%26utm_campaign%3DADP_photo_sponsored%26utm_content%3Dhttp%253A%252F%252Fpixabay.com%252Fphotos%252Fdiamonds-heart-white-love-2713667%252F%26utm_term%3Ddiamonds%2Bheart&hash=d5736ac855a6a42181d649b37cbd87f8fbf87d61&=">
+<picture>
+<source media="(max-width: 586px)" sizes="1px" srcset="/static/img/blank.gif 1w" />
+<source media="(max-width: 786px)" sizes="1px" srcset="/static/img/blank.gif 1w" />
+<img src="https://media.istockphoto.com/photos/red-heart-shaped-diamond-isolated-on-white-background-3d-render-picture-id1354588509?b=1&k=20&m=1354588509&s=170667a&w=0&h=0Mm6payL5N4RbCOpJTjDPNP5WcD1K62KeU6sgLvtxSw=" alt="Sponsored image">
+</picture>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="row-masonry-cell" style="flex-basis: 190.15784586815226px; flex-grow: 1.1884865366759516; flex-shrink: 1.1884865366759516; max-width: 237.69730733519032px">
+<div class="row-masonry-cell-outer" style="padding-top: 84.141%">
+<div class="row-masonry-cell-inner">
+<div class="stock-image item" data-w="3840" data-h="3223">
+<a class="ua-affiliates ua-affil-item ua-api-ad-getty" target="_blank" rel="nofollow" href="/link/?ua=cd3%3Dphoto%26cd7%3Den%253Adiamonds%2Bheart%253APOL%26cd4%3D2713667%26ec%3Dapi_ad%26ea%3Dnavigate%26el%3Dgetty%26tid%3DUA-20223345-1%26dr%3Dhttps%253A%252F%252Fpixabay.com%252Fimages%252Fsearch%252Fdiamonds%252F&next=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Fjewelry-diamond-and-gemstone-on-clear-background-gm1131080493-299367248%3Futm_source%3Dpixabay%26utm_medium%3Daffiliate%26utm_campaign%3DADP_photo_sponsored%26utm_content%3Dhttp%253A%252F%252Fpixabay.com%252Fphotos%252Fdiamonds-heart-white-love-2713667%252F%26utm_term%3Ddiamonds%2Bheart&hash=b14f8316fea99bebd9be79269580cf90b3a9db6d&=">
+<picture>
+<source media="(max-width: 586px)" sizes="1px" srcset="/static/img/blank.gif 1w" />
+<source media="(max-width: 786px)" sizes="1px" srcset="/static/img/blank.gif 1w" />
+<img src="https://media.istockphoto.com/photos/jewelry-diamond-and-gemstone-on-clear-background-picture-id1131080493?b=1&k=20&m=1131080493&s=170667a&w=0&h=h9LfyQ71GmYCjU0PUKvy1gg3Re93k3d2w3VqHS1_0BQ=" alt="Sponsored image">
+</picture>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="row-masonry-cell" style="flex-basis: 160.0px; flex-grow: 1.0; flex-shrink: 1.0; max-width: 200px">
+<div class="row-masonry-cell-outer" style="padding-top: 100.0%">
+<div class="row-masonry-cell-inner">
+<div class="stock-image item" data-w="5000" data-h="4992">
+<a class="ua-affiliates ua-affil-item ua-api-ad-getty" target="_blank" rel="nofollow" href="/link/?ua=cd3%3Dphoto%26cd7%3Den%253Adiamonds%2Bheart%253APOL%26cd4%3D2713667%26ec%3Dapi_ad%26ea%3Dnavigate%26el%3Dgetty%26tid%3DUA-20223345-1%26dr%3Dhttps%253A%252F%252Fpixabay.com%252Fimages%252Fsearch%252Fdiamonds%252F&next=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Fa-beautiful-red-ruby-shaped-into-a-heart-gm120876067-16408653%3Futm_source%3Dpixabay%26utm_medium%3Daffiliate%26utm_campaign%3DADP_photo_sponsored%26utm_content%3Dhttp%253A%252F%252Fpixabay.com%252Fphotos%252Fdiamonds-heart-white-love-2713667%252F%26utm_term%3Ddiamonds%2Bheart&hash=34263615325e6e2a0d023669b28b4a3118170fbc&=">
+<picture>
+<source media="(max-width: 586px)" sizes="1px" srcset="/static/img/blank.gif 1w" />
+<source media="(max-width: 786px)" sizes="1px" srcset="/static/img/blank.gif 1w" />
+<source media="(max-width: 1024px)" sizes="1px" srcset="/static/img/blank.gif 1w" />
+<img src="https://media.istockphoto.com/photos/beautiful-red-ruby-shaped-into-a-heart-picture-id120876067?b=1&k=20&m=120876067&s=170667a&w=0&h=O_uh7jiqqmLEEb-q_8HIdwiqoaHnNd-5owMf8ctHCus=" alt="Sponsored image">
+</picture>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="row-masonry-cell" style="flex-basis: 213.32px; flex-grow: 1.33325; flex-shrink: 1.33325; max-width: 266.65000000000003px">
+<div class="row-masonry-cell-outer" style="padding-top: 75.005%">
+<div class="row-masonry-cell-inner">
+<div class="stock-image item" data-w="5333" data-h="3992">
+<a class="ua-affiliates ua-affil-item ua-api-ad-getty" target="_blank" rel="nofollow" href="/link/?ua=cd3%3Dphoto%26cd7%3Den%253Adiamonds%2Bheart%253APOL%26cd4%3D2713667%26ec%3Dapi_ad%26ea%3Dnavigate%26el%3Dgetty%26tid%3DUA-20223345-1%26dr%3Dhttps%253A%252F%252Fpixabay.com%252Fimages%252Fsearch%252Fdiamonds%252F&next=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Fdiamond-jewel-hearts-valentines-day-gm135013334-15352573%3Futm_source%3Dpixabay%26utm_medium%3Daffiliate%26utm_campaign%3DADP_photo_sponsored%26utm_content%3Dhttp%253A%252F%252Fpixabay.com%252Fphotos%252Fdiamonds-heart-white-love-2713667%252F%26utm_term%3Ddiamonds%2Bheart&hash=a38d2aabe0a46371642d5b162ec6dc7e06f4b99e&=">
+<picture>
+<source media="(max-width: 586px)" sizes="1px" srcset="/static/img/blank.gif 1w" />
+<source media="(max-width: 786px)" sizes="1px" srcset="/static/img/blank.gif 1w" />
+<source media="(max-width: 1024px)" sizes="1px" srcset="/static/img/blank.gif 1w" />
+ <source media="(min-width: 1024px)" sizes="1px" srcset="/static/img/blank.gif 1w" />
+<img src="https://media.istockphoto.com/photos/diamond-jewel-hearts-valentines-day-picture-id135013334?b=1&k=20&m=135013334&s=170667a&w=0&h=ZS-YKdZ_clVVU0iImKBE4Oab5Ib63va-_8jbMQvhvSs=" alt="Sponsored image">
+</picture>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="row-masonry-cell" style="flex-basis: 239.73941368078175px; flex-grow: 1.498371335504886; flex-shrink: 1.498371335504886; max-width: 299.6742671009772px">
+<div class="row-masonry-cell-outer" style="padding-top: 66.739%">
+<div class="row-masonry-cell-inner">
+<div class="stock-image item" data-w="7360" data-h="4904">
+<a class="ua-affiliates ua-affil-item ua-api-ad-getty" target="_blank" rel="nofollow" href="/link/?ua=cd3%3Dphoto%26cd7%3Den%253Adiamonds%2Bheart%253APOL%26cd4%3D2713667%26ec%3Dapi_ad%26ea%3Dnavigate%26el%3Dgetty%26tid%3DUA-20223345-1%26dr%3Dhttps%253A%252F%252Fpixabay.com%252Fimages%252Fsearch%252Fdiamonds%252F&next=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Fsilver-heart-picture-frame-gm493719600-77050779%3Futm_source%3Dpixabay%26utm_medium%3Daffiliate%26utm_campaign%3DADP_photo_sponsored%26utm_content%3Dhttp%253A%252F%252Fpixabay.com%252Fphotos%252Fdiamonds-heart-white-love-2713667%252F%26utm_term%3Ddiamonds%2Bheart&hash=7843aa7fbfc50d645a7e21c1c57ae36cf374355f&=">
+<picture>
+<source media="(max-width: 586px)" sizes="1px" srcset="/static/img/blank.gif 1w" />
+<source media="(max-width: 786px)" sizes="1px" srcset="/static/img/blank.gif 1w" />
+<source media="(max-width: 1024px)" sizes="1px" srcset="/static/img/blank.gif 1w" />
+<source media="(min-width: 1024px)" sizes="1px" srcset="/static/img/blank.gif 1w" />
+<img src="https://media.istockphoto.com/photos/silver-heart-picture-frame-picture-id493719600?b=1&k=20&m=493719600&s=170667a&w=0&h=ZvsXXayRdT_I_rHRSuxecp96zTEZnk8j4xfzHnmMUzU=" alt="Sponsored image">
+</picture>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="row-masonry-cell" style="flex-basis: 182.85714285714283px; flex-grow: 1.1428571428571428; flex-shrink: 1.1428571428571428; max-width: 228.57142857142856px">
+<div class="row-masonry-cell-outer" style="padding-top: 87.5%">
+<div class="row-masonry-cell-inner">
+<div class="stock-image item" data-w="4000" data-h="3492">
+<a class="ua-affiliates ua-affil-item ua-api-ad-getty" target="_blank" rel="nofollow" href="/link/?ua=cd3%3Dphoto%26cd7%3Den%253Adiamonds%2Bheart%253APOL%26cd4%3D2713667%26ec%3Dapi_ad%26ea%3Dnavigate%26el%3Dgetty%26tid%3DUA-20223345-1%26dr%3Dhttps%253A%252F%252Fpixabay.com%252Fimages%252Fsearch%252Fdiamonds%252F&next=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Fheart-shaped-diamond-isolated-on-black-background-3d-render-gm1354849606-429492684%3Futm_source%3Dpixabay%26utm_medium%3Daffiliate%26utm_campaign%3DADP_photo_sponsored%26utm_content%3Dhttp%253A%252F%252Fpixabay.com%252Fphotos%252Fdiamonds-heart-white-love-2713667%252F%26utm_term%3Ddiamonds%2Bheart&hash=94f6407198ff74f85cfe8fdd5ce56b83a0ad7e33&=">
+<picture>
+<source media="(max-width: 586px)" sizes="1px" srcset="/static/img/blank.gif 1w" />
+<source media="(max-width: 786px)" sizes="1px" srcset="/static/img/blank.gif 1w" />
+<source media="(max-width: 1024px)" sizes="1px" srcset="/static/img/blank.gif 1w" />
+<source media="(min-width: 1024px)" sizes="1px" srcset="/static/img/blank.gif 1w" />
+<img src="https://media.istockphoto.com/photos/heart-shaped-diamond-isolated-on-black-background-3d-render-picture-id1354849606?b=1&k=20&m=1354849606&s=170667a&w=0&h=CZN2Ic6Yanim_kalQ0bCC06CrjyovXLkOyUysVqxQV0=" alt="Sponsored image">
+</picture>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="row-masonry-cell" style="flex-basis: 213.33333333333331px; flex-grow: 1.3333333333333333; flex-shrink: 1.3333333333333333; max-width: 266.66666666666663px">
+<div class="row-masonry-cell-outer" style="padding-top: 75.0%">
+<div class="row-masonry-cell-inner">
+<div class="stock-image item" data-w="4000" data-h="2992">
+<a class="ua-affiliates ua-affil-item ua-api-ad-getty" target="_blank" rel="nofollow" href="/link/?ua=cd3%3Dphoto%26cd7%3Den%253Adiamonds%2Bheart%253APOL%26cd4%3D2713667%26ec%3Dapi_ad%26ea%3Dnavigate%26el%3Dgetty%26tid%3DUA-20223345-1%26dr%3Dhttps%253A%252F%252Fpixabay.com%252Fimages%252Fsearch%252Fdiamonds%252F&next=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Fdiamond-gm499909441-42913934%3Futm_source%3Dpixabay%26utm_medium%3Daffiliate%26utm_campaign%3DADP_photo_sponsored%26utm_content%3Dhttp%253A%252F%252Fpixabay.com%252Fphotos%252Fdiamonds-heart-white-love-2713667%252F%26utm_term%3Ddiamonds%2Bheart&hash=04c965d8e3c069d350f968aba7f5b9171e399813&=">
+<picture>
+<source media="(max-width: 586px)" sizes="1px" srcset="/static/img/blank.gif 1w" />
+<source media="(max-width: 786px)" sizes="1px" srcset="/static/img/blank.gif 1w" />
+<source media="(max-width: 1024px)" sizes="1px" srcset="/static/img/blank.gif 1w" />
+<source media="(min-width: 1024px)" sizes="1px" srcset="/static/img/blank.gif 1w" />
+<img src="https://media.istockphoto.com/photos/diamond-picture-id499909441?b=1&k=20&m=499909441&s=170667a&w=0&h=9ef9FG0lPfu7hMwMh0PkttQvzaMupXiX3gvRvq-XXow=" alt="Sponsored image">
+</picture>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="row-masonry-cell" style="flex-basis: 200.0px; flex-grow: 1.25; flex-shrink: 1.25; max-width: 250.0px">
+<div class="row-masonry-cell-outer" style="padding-top: 80.0%">
+<div class="row-masonry-cell-inner">
+<div class="stock-image item" data-w="5500" data-h="4392">
+<a class="ua-affiliates ua-affil-item ua-api-ad-getty" target="_blank" rel="nofollow" href="/link/?ua=cd3%3Dphoto%26cd7%3Den%253Adiamonds%2Bheart%253APOL%26cd4%3D2713667%26ec%3Dapi_ad%26ea%3Dnavigate%26el%3Dgetty%26tid%3DUA-20223345-1%26dr%3Dhttps%253A%252F%252Fpixabay.com%252Fimages%252Fsearch%252Fdiamonds%252F&next=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffew-heart-cut-rubies-gm178372499-20306328%3Futm_source%3Dpixabay%26utm_medium%3Daffiliate%26utm_campaign%3DADP_photo_sponsored%26utm_content%3Dhttp%253A%252F%252Fpixabay.com%252Fphotos%252Fdiamonds-heart-white-love-2713667%252F%26utm_term%3Ddiamonds%2Bheart&hash=5be5af0c636869ac250f123691834b0980875697&=">
+<picture>
+<source media="(max-width: 586px)" sizes="1px" srcset="/static/img/blank.gif 1w" />
+<source media="(max-width: 786px)" sizes="1px" srcset="/static/img/blank.gif 1w" />
+<source media="(max-width: 1024px)" sizes="1px" srcset="/static/img/blank.gif 1w" />
+<source media="(min-width: 1024px)" sizes="1px" srcset="/static/img/blank.gif 1w" />
+<img src="https://media.istockphoto.com/photos/few-heart-cut-rubies-picture-id178372499?b=1&k=20&m=178372499&s=170667a&w=0&h=trUcqkJL3MvHVmCplqRvH26_Wxd49r3YHlG_uY3UV60=" alt="Sponsored image">
+</picture>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></div>
+<div class="right">
+<div style="margin:0 0 20px">
+<div class="clearfix">
+<a href="/users/stealth_sly-2437462/"><img class="hover_opacity" height="48" width="48" style="float:left;width:48px;height:48px;border-radius:48px;margin:0 12px 0 0" alt="stealth_sly" srcset="https://cdn.pixabay.com/user/2016/11/15/04-22-43-439_48x48.jpg 1x, https://cdn.pixabay.com/user/2016/11/15/04-22-43-439_96x96.jpg 2x" src="https://cdn.pixabay.com/user/2016/11/15/04-22-43-439_48x48.jpg"></a>
+<a style="display:block;font-size:15px;margin:-3px 0 -8px 60px;color:#555" class="hover_opacity" href="/users/stealth_sly-2437462/">
+stealth_sly / 11 images
+</a>
+<br>
+<form id="paypal_profile_form" action="https://www.paypal.com/cgi-bin/webscr" method="post" target='_blank' style="display:none">
+<input type="hidden" name="cmd" value="_donations">
+<input type="hidden" name="return" value="https://pixabay.com/service/donated/">
+<input type="hidden" name="currency_code" value="USD">
+<input type="hidden" name="lc" value="US">
+<input type="hidden" name="no_shipping" value="1">
+<input type="hidden" name="item_name" value="stealth_sly / Pixabay (Image #2713667)">
+<input type="hidden" name="business" value="silvestrecajiganjr&#64;gmail&#46;com">
+<input type="submit" id="donate_button" class="ua-donation-button">
+</form>
+<span class="pure-button button-sm button-green" onclick="$('#donate_button').click();">Coffee</span>
+<span id="follow_button" class="ua-engagement-follow pure-button button-sm  ajax" data-w="442" data-href="/accounts/follow/2437462/"><i class="check">✓</i> Follow</span>
+</div>
+</div>
+<div class="like_buttons">
+<span data-href="/accounts/like/photo/2713667/?button" class="ua-engagement-like like_button pure-button pure-button-primary button-sm ajax " title="Like"><i class="icon icon_like_filled"></i><b>81</b></span>
+<span title="Add to collection" data-href="/accounts/collections/collect/photo/2713667/" data-w="500" class="ua-engagement-collect pure-button pure-button-primary button-sm modal-post"><i id="collect_photo_2713667" class="icon icon_bookmark"></i></span>
+<span data-href="/go/?t=share&amp;type=photo&amp;id=2713667" class="share_button ua-engagement-share pure-button button-sm dd_box ajax" data-target=".share_links" title="Share"><i class="icon icon_share"></i></span>
+<div class="share_links" style="width:216px;padding:15px"></div>
+</div>
+<div class="carbon-ad"><script src="//cdn.carbonads.com/carbon.js?serve=CK7D4K7L&placement=pixabaycom" id="_carbonads_js" async></script></div>
+<div class="download_menu large_menu" data-type="images">
+<span class="pure-button button-green ua-download-open-menu " style="display:block;max-width:310px;margin:10px 0 0"><i class="icon icon_download"></i> Free Download</span>
+<div class="bubble" style="padding:15px">
+<table>
+<tr><td><input type="radio" name="download" value="diamonds-2713667_640.jpg"> 640×504</td><td>JPG</td><td>104 kB</td></tr>
+<tr><td><input type="radio" name="download" value="diamonds-2713667_1280.jpg" data-perm="check"> 1280×1009</td><td>JPG</td><td>343 kB</td></tr>
+<tr><td><input type="radio" name="download" value="diamonds-2713667_1920.jpg" data-perm="check"> 1920×1514</td><td>JPG</td><td>727 kB</td></tr>
+<tr class="no_default"><td><input type="radio" name="download" value="diamonds-2713667.jpg" data-perm="auth"> 4900×3865</td><td>JPG</td><td>5.0 MB</td></tr>
+</table>
+<a target="_blank" class="view_btn pure-button button-md ua-view-button" data-w="332" style="display:inline-block;width:49%;float:right">View</a>
+<a class="dl_btn pure-button button-green button-md ua-download-button" data-w="332" style="display:inline-block;width:49%;">Download</a>
+</div>
+</div>
+<div class="canva-buttons ua-canva-buttons">
+<p class="canva-buttons-label">
+<img src="/static/img/canva-button/canva-icon.svg" width="20" height="20" />
+<span>Create a Canva design with this image</span>
+</p>
+<button class="canva-instagram" type="button">
+<img src="/static/img/canva-button/instagram-colored.svg" width="18" height="18" alt="Instagram logo" />
+Instagram story
+</button>
+<button class="canva-facebook" type="button">
+<img src="/static/img/canva-button/facebook-colored.svg" width="20" height="20" alt="Facebook logo" />
+Facebook post
+</button>
+<button class="canva-presentation" type="button">
+<img src="/static/img/canva-button/presentation-logo.svg" width="20" height="20" alt="Presentation" />
+Presentation
+</button>
+<div class="canva-show-more" role="button">
+<img src="/static/img/canva-button/plus.svg" width="20" height="20" alt="Show more" />
+Show more
+<div class="canva-button-menu" style="display: none">
+<button type="button" data-type="A4Document">
+<span class="name">A4 Document</span>
+<span class="size">21cm × 27cm</span>
+</button>
+<button type="button" data-type="Announcement">
+<span class="name">Announcement</span>
+<span class="size">5in × 7in</span>
+</button>
+<button type="button" data-type="BirthdayCard">
+<span class="name">Birthday Card</span>
+<span class="size">7in × 5in</span>
+</button>
+<button type="button" data-type="BirthdayInvitation">
+<span class="name">Birthday Invitation</span>
+<span class="size">14cm × 14cm</span>
+</button>
+<button type="button" data-type="BlogBanner">
+<span class="name">Blog Banner</span>
+<span class="size">560px × 315px</span>
+</button>
+<button type="button" data-type="BookCover">
+<span class="name">Book Cover</span>
+<span class="size">1410px × 2250px</span>
+</button>
+<button type="button" data-type="Bookmark">
+<span class="name">Bookmark</span>
+<span class="size">2in × 6in</span>
+</button>
+<button type="button" data-type="Brochure">
+<span class="name">Brochure</span>
+<span class="size">11in × 8.5in</span>
+</button>
+<button type="button" data-type="BusinessCard">
+<span class="name">Business Card</span>
+<span class="size">8.5cm × 5cm</span>
+</button>
+<button type="button" data-type="Calendar">
+<span class="name">Calendar</span>
+<span class="size">1920px × 1080px</span>
+</button>
+<button type="button" data-type="Card">
+<span class="name">Card</span>
+<span class="size">7in × 5in</span>
+</button>
+<button type="button" data-type="Certificate">
+<span class="name">Certificate</span>
+<span class="size">29.7cm × 21cm</span>
+</button>
+<button type="button" data-type="DesktopWallpaper">
+<span class="name">Desktop Wallpaper</span>
+<span class="size">1920px × 1080px</span>
+</button>
+<button type="button" data-type="EmailHeader">
+<span class="name">Email Header</span>
+<span class="size">600px × 200px</span>
+</button>
+<button type="button" data-type="EtsyShopCover">
+<span class="name">Etsy Shop Cover</span>
+<span class="size">1200px × 300px</span>
+</button>
+<button type="button" data-type="EtsyShopIcon">
+<span class="name">Etsy Shop Icon</span>
+<span class="size">500px × 500px</span>
+</button>
+<button type="button" data-type="FacebookAd">
+<span class="name">Facebook Ad</span>
+<span class="size">1200px × 628px</span>
+</button>
+<button type="button" data-type="FacebookAppAd">
+<span class="name">Facebook App Ad</span>
+<span class="size">810px × 450px</span>
+</button>
+<button type="button" data-type="FacebookCover">
+<span class="name">Facebook Cover</span>
+<span class="size">1080px × 1920px</span>
+</button>
+<button type="button" data-type="FacebookEventCover">
+<span class="name">Facebook Event Cover</span>
+<span class="size">1920px × 1080px</span>
+</button>
+<button type="button" data-type="FacebookPost">
+<span class="name">Facebook Post</span>
+<span class="size">940px × 788px</span>
+</button>
+<button type="button" data-type="Flyer">
+<span class="name">Flyer</span>
+<span class="size">21cm × 29.7cm</span>
+</button>
+<button type="button" data-type="GiftCertificate">
+<span class="name">Gift Certificate</span>
+<span class="size">6in × 4in</span>
+</button>
+<button type="button" data-type="Infographic">
+<span class="name">Infographic</span>
+<span class="size">800px × 2000px</span>
+</button>
+<button type="button" data-type="InstagramPost">
+<span class="name">Instagram Post</span>
+<span class="size">1080px × 1080px</span>
+</button>
+<button type="button" data-type="InstagramStory">
+<span class="name">Instagram Story</span>
+<span class="size">1080px × 1920px</span>
+</button>
+<button type="button" data-type="Invitation">
+<span class="name">Invitation</span>
+<span class="size">14cm × 14cm</span>
+</button>
+<button type="button" data-type="Invoice">
+<span class="name">Invoice</span>
+<span class="size">21cm × 29.7cm</span>
+</button>
+<button type="button" data-type="Label">
+<span class="name">Label</span>
+<span class="size">6in × 4in</span>
+</button>
+<button type="button" data-type="LargeRectangleAd">
+<span class="name">Large Rectangle Ad</span>
+<span class="size">330px × 280px</span>
+</button>
+<button type="button" data-type="LeaderboardAd">
+<span class="name">Leaderboard Ad</span>
+<span class="size">728px × 90px</span>
+</button>
+<button type="button" data-type="LessonPlan">
+<span class="name">Lesson Plan</span>
+<span class="size">21cm × 29.7cm</span>
+</button>
+<button type="button" data-type="Letter">
+<span class="name">Letter</span>
+<span class="size">21cm × 29.7cm</span>
+</button>
+<button type="button" data-type="LinkedInBanner">
+<span class="name">LinkedIn Banner</span>
+<span class="size">1400px × 425px</span>
+</button>
+<button type="button" data-type="Logo">
+<span class="name">Logo</span>
+<span class="size">500px × 500px</span>
+</button>
+<button type="button" data-type="MagazineCover">
+<span class="name">Magazine Cover</span>
+<span class="size">21cm × 29.7cm</span>
+</button>
+<button type="button" data-type="MediumRectangleAd">
+<span class="name">Medium Rectangle Ad</span>
+<span class="size">300px × 250px</span>
+</button>
+<button type="button" data-type="Menu">
+<span class="name">Menu</span>
+<span class="size">21cm × 29.7cm</span>
+</button>
+<button type="button" data-type="MindMap">
+<span class="name">Mind Map</span>
+<span class="size">1024px × 768px</span>
+</button>
+<button type="button" data-type="Newsletter">
+<span class="name">Newsletter</span>
+<span class="size">21cm × 29.7cm</span>
+</button>
+<button type="button" data-type="PhotoCollage">
+<span class="name">Photo Collage</span>
+<span class="size">25cm × 20cm</span>
+</button>
+<button type="button" data-type="PinterestGraphic">
+<span class="name">Pinterest Graphic</span>
+<span class="size">735px × 1102px</span>
+</button>
+<button type="button" data-type="PodcastCover">
+<span class="name">Podcast Cover</span>
+<span class="size">3000px × 3000px</span>
+ </button>
+<button type="button" data-type="Postcard">
+<span class="name">Postcard</span>
+<span class="size">14.8cm × 10.5cm</span>
+</button>
+<button type="button" data-type="Poster">
+<span class="name">Poster</span>
+<span class="size">42cm × 59.4cm</span>
+</button>
+<button type="button" data-type="Presentation">
+<span class="name">Presentation</span>
+<span class="size">1920px × 1080px</span>
+</button>
+<button type="button" data-type="Presentation43">
+<span class="name">Presentation 4:3</span>
+<span class="size">1024px × 768px</span>
+</button>
+<button type="button" data-type="ProductLabel">
+<span class="name">Product Label</span>
+<span class="size">6in × 4in</span>
+</button>
+<button type="button" data-type="RecipeCard">
+<span class="name">Recipe Card</span>
+<span class="size">800px × 1200px</span>
+</button>
+<button type="button" data-type="Resume">
+<span class="name">Resume</span>
+<span class="size">21cm × 29.7cm</span>
+</button>
+<button type="button" data-type="SnapchatGeofilter">
+<span class="name">Snapchat Geofilter</span>
+<span class="size">1080px × 2340px</span>
+</button>
+<button type="button" data-type="SocialMedia">
+<span class="name">Social Media</span>
+<span class="size">800px × 800px</span>
+</button>
+<button type="button" data-type="Ticket">
+<span class="name">Ticket</span>
+<span class="size">8.5in × 2.8in</span>
+</button>
+<button type="button" data-type="TumblrGraphic">
+<span class="name">Tumblr Graphic</span>
+<span class="size">540px × 810px</span>
+</button>
+<button type="button" data-type="TwitterHeader">
+<span class="name">Twitter Header</span>
+<span class="size">1500px × 500px</span>
+</button>
+<button type="button" data-type="TwitterPost">
+<span class="name">Twitter Post</span>
+<span class="size">1042px × 512px</span>
+</button>
+<button type="button" data-type="WattpadBookCover">
+<span class="name">Wattpad Book Cover</span>
+<span class="size">512px × 800px</span>
+</button>
+<button type="button" data-type="WeddingInvitation">
+<span class="name">Wedding Invitation</span>
+<span class="size">5in × 7in</span>
+</button>
+<button type="button" data-type="WideSkyscraperAd">
+<span class="name">Wide Skyscraper Ad</span>
+<span class="size">160px × 600px</span>
+</button>
+<button type="button" data-type="Worksheet">
+<span class="name">Worksheet</span>
+<span class="size">21cm × 29.7cm</span>
+</button>
+<button type="button" data-type="Yearbook">
+<span class="name">Yearbook</span>
+<span class="size">21cm × 29.7cm</span>
+</button>
+<button type="button" data-type="YouTubeChannelArt">
+<span class="name">YouTube Channel Art</span>
+<span class="size">2560px × 1440px</span>
+</button>
+<button type="button" data-type="YouTubeThumbnail">
+<span class="name">YouTube Thumbnail</span>
+<span class="size">1280px × 720px</span>
+</button>
+</div>
+</div>
+</div>
+<div style="margin:20px 0 10px;padding:15px 20px;background:#f6f5fa;line-height:1.5">
+<a href="/service/license/" style="color:#636363;text-decoration:underline">Pixabay License</a>
+<div style="margin-top:4px;font-size:14px">
+Free for commercial use
+<br>No attribution required
+</div>
+</div>
+<div id="fb_like_widget" class="hide-xs hide-sm" style="margin:20px 0;padding:10px 15px;background:#f6f5fa;font-size:14px">
+<p style="margin:0 0 5px">Like Pixabay on Facebook</p>
+<div class="fb-like" data-href="https://www.facebook.com/pixabay" data-layout="button_count" data-share="true" data-show-faces="false"></div>
+</div>
+<p style="margin:15px 0 5px;font-size:13px;padding:5px 15px;background:#f6f5fa;border-bottom: 1px solid #eeeff2">Related Images</p>
+<div class="flex_grid sidebar_thumbs" style="margin:-4px -6px 15px -5px">
+<div class="item" data-w="640" data-h="426"><a href="/photos/christmas-bauble-red-ball-15738/">
+<img title="Christmas Bauble, Red, Ball" src="/static/img/blank.gif" alt="" data-src="https://cdn.pixabay.com/photo/2012/02/23/08/42/christmas-bauble-15738__180.jpg">
+<em>Christmas Bauble, Red, Ball, Celebration</em>
+</a></div>
+<div class="item" data-w="640" data-h="407"><a href="/photos/tree-flowers-meadow-tree-trunk-276014/">
+<img title="Tree, Flowers, Meadow, Tree Trunk" src="/static/img/blank.gif" alt="" data-src="https://cdn.pixabay.com/photo/2014/02/27/16/10/tree-276014__180.jpg">
+<em>Tree, Flowers, Meadow, Tree Trunk</em>
+</a></div>
+<div class="item" data-w="640" data-h="429"><a href="/photos/girl-walking-teddy-bear-child-walk-447701/">
+<img title="Girl, Walking, Teddy Bear, Child" src="/static/img/blank.gif" alt="" data-src="https://cdn.pixabay.com/photo/2014/09/16/01/19/girl-447701__180.jpg">
+<em>Girl, Walking, Teddy Bear, Child, Walk</em>
+</a></div>
+<div class="item" data-w="640" data-h="427"><a href="/photos/heart-love-romance-valentine-700141/">
+<img title="Heart, Love, Romance, Valentine" src="/static/img/blank.gif" alt="" data-src="https://cdn.pixabay.com/photo/2015/03/30/20/33/heart-700141__180.jpg">
+<em>Heart, Love, Romance, Valentine, Harmony</em>
+</a></div>
+<div class="item" data-w="640" data-h="416"><a href="/photos/marguerite-daisy-flower-white-729510/">
+<img title="Marguerite, Daisy, Flower, White" src="/static/img/blank.gif" alt="" data-src="https://cdn.pixabay.com/photo/2015/04/19/08/32/marguerite-729510__180.jpg">
+<em>Marguerite, Daisy, Flower, White, Bloom</em>
+</a></div>
+<div class="item" data-w="640" data-h="426"><a href="/photos/butterflies-flowers-pollinate-1127666/">
+<img title="Butterflies, Flowers, Pollinate" src="/static/img/blank.gif" alt="" data-src="https://cdn.pixabay.com/photo/2016/01/08/11/57/butterflies-1127666__180.jpg">
+<em>Butterflies, Flowers, Pollinate</em>
+</a></div>
+<div class="item" data-w="640" data-h="426"><a href="/photos/heart-leaves-foliage-garden-bush-1192662/">
+<img title="Heart, Leaves, Foliage, Garden" src="/static/img/blank.gif" alt="" data-src="https://cdn.pixabay.com/photo/2016/02/10/21/57/heart-1192662__180.jpg">
+<em>Heart, Leaves, Foliage, Garden, Bush</em>
+</a></div>
+<div class="item" data-w="640" data-h="426"><a href="/photos/book-quran-open-pages-open-book-1283468/">
+<img title="Book, Quran, Open, Pages, Open Book" src="/static/img/blank.gif" alt="" data-src="https://cdn.pixabay.com/photo/2016/03/27/18/31/book-1283468__180.jpg">
+<em>Book, Quran, Open, Pages, Open Book</em>
+</a></div>
+<div class="item" data-w="640" data-h="427"><a href="/photos/iceland-arctic-fox-fox-white-1979445/">
+<img title="Iceland, Arctic Fox, Fox, White" src="/static/img/blank.gif" alt="" data-src="https://cdn.pixabay.com/photo/2017/01/14/12/59/iceland-1979445__180.jpg">
+<em>Iceland, Arctic Fox, Fox, White</em>
+</a></div>
+<div class="item" data-w="640" data-h="380"><a href="/photos/white-tailed-eagle-fish-hunting-2015098/">
+<img title="White Tailed Eagle, Fish, Hunting" src="/static/img/blank.gif" alt="" data-src="https://cdn.pixabay.com/photo/2017/01/28/11/00/white-tailed-eagle-2015098__180.jpg">
+<em>White Tailed Eagle, Fish, Hunting, Huner</em>
+</a></div>
+<div class="item" data-w="640" data-h="359"><a href="/photos/wintry-snow-backcountry-skiiing-2068298/">
+<img title="Wintry, Snow, Backcountry Skiiing" src="/static/img/blank.gif" alt="" data-src="https://cdn.pixabay.com/photo/2017/02/15/11/15/wintry-2068298__180.jpg">
+<em>Wintry, Snow, Backcountry Skiiing</em>
+</a></div>
+<div class="item" data-w="640" data-h="426"><a href="/photos/nature-wildlife-white-bengal-tiger-3106213/">
+<img title="Nature, Wildlife" src="/static/img/blank.gif" alt="" data-src="https://cdn.pixabay.com/photo/2018/01/25/14/12/nature-3106213__180.jpg">
+<em>Nature, Wildlife, White Bengal Tiger</em>
+</a></div>
+</div>
+<div style="padding:15px 20px;background:#f6f5fa">
+<table id="details">
+<tr>
+<th style="white-space:nowrap">Image type</th>
+<td>
+JPG
+</td>
+</tr>
+<tr>
+<th>Resolution</th>
+<td>4900×3865</td></tr>
+<tr>
+<th>Published</th>
+<td>Sept. 4, 2017</td>
+</tr>
+<tr><th>Views</th><td>18959</td></tr>
+<tr><th>Downloads</th><td>11435</td></tr>
+</table>
+</div>
+</div>
+<div class="left"><div class="inside" style="margin-top:15px">
+<div class="comments-section" id="comments-section">
+<form id="comment_form" class="pure-form ajax_form" data-target="#comments" action="/images/comments/2713667/create/" data-replace="1" data-reset="1" method='post'>
+<input type='hidden' name='csrfmiddlewaretoken' value='7GAr2X0kVfcIob4OIZqJ3uuZlgjso3e0vfdQxBymadWJwBwnpZCGN8hCiUhqLO87' />
+<table>
+<tr>
+<td><img srcset="/static/img/profile_image_dummy.svg 1x, /static/img/profile_image_dummy.svg 2x" src="/static/img/profile_image_dummy.svg" alt=""></td>
+<td style="padding-bottom:0"><textarea name="text" cols="40" rows="10" placeholder="Add your comment ..." class="autosize" style="width:100%;height:48px" onfocus="$(&#x27;#comment_submit&#x27;).show();" maxlength="2000" required id="id_text"></textarea></td>
+</tr>
+<tr style="display:none" id="comment_submit"><td></td><td style="padding-top:0">
+<p id="notification_option" style="margin:0 0 10px 1px">
+<label style="display:inline;font-size:14px"><input name="subscribe" value="true" type="checkbox"> Email notification of new posts</label>
+</p>
+<input id="comment_submit_btn" type="submit" class="ua-engagement-comment pure-button button-green button-md g-recaptcha" data-sitekey="6Lf8Bg4UAAAAAJ9KPbr_AoCbQ5l9jDqcuaLAgBDM" data-size="invisible" value="Submit">
+</td></tr>
+</table>
+</form>
+<div id="comments">
+<table id="comment_list">
+<tr id="comment_6542933" class="comment">
+<td>
+<a href="/users/winstonrha-19390628/">
+<img srcset="/static/img/profile_image_dummy.svg 1x, /static/img/profile_image_dummy.svg 2x" src="/static/img/profile_image_dummy.svg" alt="">
+</a>
+</td>
+<td>
+<div class="options hide-md">
+<a class="translate" data-el="#comment_6542933 .text">Translate</a>
+</div>
+<div style="font-size:14px" id='comment_6542933_detail'>
+<a href="/users/winstonrha-19390628/">Winstonrha</a> <span style="font-size:12px;color:#999">&nbsp; Oct. 4, 2021</span>
+</div>
+<div class="text linkify">Thank You~</div>
+</td>
+</tr>
+<tr id="comment_5672510" class="comment">
+<td>
+<img srcset="/static/img/profile_image_dummy.svg 1x, /static/img/profile_image_dummy.svg 2x" src="/static/img/profile_image_dummy.svg" alt="">
+</td>
+<td>
+<div class="options hide-md">
+<a class="translate" data-el="#comment_5672510 .text">Translate</a>
+</div>
+<div style="font-size:14px" id='comment_5672510_detail'>
+박영권 <span style="font-size:12px;color:#999">&nbsp; April 22, 2021</span>
+</div>
+<div class="text linkify">Thank you!</div>
+</td>
+</tr>
+<tr id="comment_5133290" class="comment">
+<td>
+<a href="/users/savevolare-15054777/">
+<img srcset="/static/img/profile_image_dummy.svg 1x, /static/img/profile_image_dummy.svg 2x" src="/static/img/profile_image_dummy.svg" alt="">
+</a>
+</td>
+<td>
+<div class="options hide-md">
+<a class="translate" data-el="#comment_5133290 .text">Translate</a>
+</div>
+<div style="font-size:14px" id='comment_5133290_detail'>
+<a href="/users/savevolare-15054777/">savevolare</a> <span style="font-size:12px;color:#999">&nbsp; Jan. 1, 2021</span>
+</div>
+<div class="text linkify">감사합니다^^</div>
+</td>
+</tr>
+<tr id="comment_3673108" class="comment">
+<td>
+<a href="/users/金色の髪の美少女-15822184/">
+<img srcset="https://cdn.pixabay.com/user/2020/03/31/13-52-53-846_48x48.png 1x, https://cdn.pixabay.com/user/2020/03/31/13-52-53-846_96x96.png 2x" src="https://cdn.pixabay.com/user/2020/03/31/13-52-53-846_48x48.png" alt="">
+</a>
+</td>
+<td>
+<div class="options hide-md">
+<a class="translate" data-el="#comment_3673108 .text">Translate</a>
+</div>
+<div style="font-size:14px" id='comment_3673108_detail'>
+<a href="/users/金色の髪の美少女-15822184/">金色の髪の美少女</a> <span style="font-size:12px;color:#999">&nbsp; March 31, 2020</span>
+</div>
+<div class="text linkify">Silvestre Cajiganさん、初めまして、こんにちは。お洒落ですね☆</div>
+</td>
+</tr>
+<tr id="comment_3063627" class="comment">
+<td>
+<a href="/users/joiacrissa-2430652/">
+<img srcset="/static/img/profile_image_dummy.svg 1x, /static/img/profile_image_dummy.svg 2x" src="/static/img/profile_image_dummy.svg" alt="">
+</a>
+</td>
+<td>
+<div class="options hide-md">
+<a class="translate" data-el="#comment_3063627 .text">Translate</a>
+</div>
+<div style="font-size:14px" id='comment_3063627_detail'>
+<a href="/users/joiacrissa-2430652/">joiacrissa</a> <span style="font-size:12px;color:#999">&nbsp; Nov. 6, 2019</span>
+</div>
+<div class="text linkify">Merci beaucoup &lt;3</div>
+</td>
+</tr>
+</table>
+<a style="display:block;margin:0 0 40px" href="/images/comments/2713667/all/" class="ajax pure-button button-md" data-target="#comments">+1 more</a>
+</div>
+<script>
+    
+    if (window.jQuery) $('.comment .text').each(function(){ $(this).linkify(); });
+</script>
+</div>
+<div style="margin:40px 0" class="getty-banner present-gtty-item">
+<span style="display:inline-block;padding:18px 20px 14px;background:#f5f5f5;line-height:1.7">
+Discover more great images on our sponsor's site<br>
+<a style="color:#636363" class="getty-banner-link" target="_blank" rel="nofollow" href="/link/?ua=cd3%3Dphoto%26cd7%3Den%253Adiamonds%2Bheart%253APOL%26cd4%3D2713667%26ec%3Dgetty_banner%26ea%3Dnavigate%26tid%3DUA-20223345-1%26dr%3Dhttps%253A%252F%252Fpixabay.com%252Fimages%252Fsearch%252Fdiamonds%252F&next=https%3A%2F%2Fwww.istockphoto.com%2F%3Futm_source%3Dpixabay%26utm_medium%3Daffiliate%26utm_campaign%3DADP_photo_banner%26utm_content%3Dhttp%253A%252F%252Fpixabay.com%252Fphotos%252Fdiamonds-heart-white-love-2713667%252F%26utm_term%3Ddiamonds%2Bheart&hash=a4132ea3a745c07052acddfc69f81ff7ff45d8a4&=">
+<img src="/static/img/publisher/istock_black_logo.jpg" style="width:100px;position:relative;top:10px;margin-right:10px">
+<u style="display:inline-block;padding:12px 0">Pixabay users get 20% off at iStock with code PIXABAY20 →</u>
+</a>
+<img src="/link/?ua=cd3%3Dphoto%26cd7%3Den%253Adiamonds%2Bheart%253APOL%26cd4%3D2713667%26ec%3Dgetty_banner%26ea%3Dpixel%26tid%3DUA-20223345-1%26dr%3Dhttps%253A%252F%252Fpixabay.com%252Fimages%252Fsearch%252Fdiamonds%252F&next=%2Fstatic%2Fimg%2Fblank.gif&hash=101f490fd75d97a14f43fdc954d89351b95aabbd&=" class="hidden">
+</span>
+</div>
+<p class="tags">
+<a href="/images/search/diamonds/">diamonds</a><i>, </i><a href="/images/search/heart/">heart</a><i>, </i><a href="/images/search/white/">white</a><i>, </i><a href="/images/search/love/">love</a><i>, </i><a href="/images/search/valentines/">valentines</a><i>, </i><a href="/images/search/diamond/">diamond</a><i>, </i><a href="/images/search/red/">red</a><i>, </i><a href="/images/search/february/">february</a><i>, </i><a href="/images/search/14/">14</a><i>, </i><a href="/images/search/valentine/">valentine</a><i>, </i><a href="/images/search/3d/">3d</a><i>, </i><a href="/images/search/rendered/">rendered</a><i>, </i><a href="/images/search/artwork/">artwork</a><i>, </i><a href="/images/search/valentines%20day/">valentines day</a><i>, </i><a href="/images/search/gemstones/">gemstones</a><i>, </i><a href="/images/search/precious/">precious</a><i>, </i><a href="/images/search/luxury/">luxury</a><i>, </i><a href="/images/search/bright/">bright</a><i>, </i><a href="/images/search/brilliant/">brilliant</a><i>, </i><a href="/images/search/geometric/">geometric</a><i>, </i><a href="/images/search/jewel/">jewel</a><i>, </i><a href="/images/search/jewels/">jewels</a><i>, </i><a href="/images/search/design/">design</a><i>, </i><a href="/images/search/gem/">gem</a><i>, </i><a href="/images/search/red%20love/">red love</a><i>, </i><a href="/images/search/red%20heart/">red heart</a><i>, </i><a href="/images/search/red%20design/">red design</a><i>, </i><a href="/images/search/red%20diamond/">red diamond</a><i>, </i>
+<span class="noselect">
+<a href="/photos/">Photos</a><i>, </i>
+</span>
+</p>
+</div></div>
+</div>
+</div>
+</div>
+<div id="fb-root"></div><a id="toTop">▲</a>
+<script>
+    var DEBUG = 0, LANG = 'en', LANG_URL_PREFIX = '', LANGS = [["cs","\u010ce\u0161tina"],["da","Dansk"],["de","Deutsch"],["en","English"],["es","Espa\u00f1ol"],["fr","Fran\u00e7ais"],["id","Indonesia"],["it","Italiano"],["hu","Magyar"],["nl","Nederlands"],["no","Norsk"],["pl","Polski"],["pt","Portugu\u00eas"],["ro","Rom\u00e2n\u0103"],["sk","Sloven\u010dina"],["fi","Suomi"],["sv","Svenska"],["tr","T\u00fcrk\u00e7e"],["vi","Vi\u1ec7t"],["th","\u0e44\u0e17\u0e22"],["bg","\u0411\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438"],["ru","\u0420\u0443\u0441\u0441\u043a\u0438\u0439"],["el","\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae"],["ja","\u65e5\u672c\u8a9e"],["ko","\ud55c\uad6d\uc5b4"],["zh","\u7b80\u4f53\u4e2d\u6587"]], I18N = { 'delete': 'Really delete?', 'safesearch': 'SafeSearch', 'adult_content': 'Adult Content' };
+    window.is_mobile = 0;
+    window.useCFSuggestion = 0;
+</script>
+<script src="/static/js/notifications/packages.js?f"></script>
+<script src="/static/js/min/notifications.1337fe18.min.js" type="module"> </script>
+<script src="/static/js/min/base.bf16f999.min.js?f"></script>
+<script defer src="https://unpkg.com/web-vitals"></script>
+<script>
+    const sentMetrics = [];
+    function sendVital(metric) {
+        if (sentMetrics.includes(metric.name)) return;
+        sentMetrics.push(metric.name);
+
+        const data = {
+            name: metric.name,
+            value: metric.value,
+            signature: 'webvitals:1o9CLb:VhCq7-MtL3hLl1AXRhzGrt8Rwlj9-nN5pdjlM4JBJ2A',
+            referer_path: window.location.href
+        };
+
+        if (navigator.sendBeacon) {
+            navigator.sendBeacon('/collect/web-vitals/', JSON.stringify(data));
+        } else {
+            $.post('/collect/web-vitals/', data);
+        }
+    }
+
+    if (Math.random() * 100 <= 5.0) {
+        addEventListener('DOMContentLoaded', function() {
+            webVitals.getCLS(sendVital);
+            webVitals.getFID(sendVital);
+            webVitals.getLCP(sendVital);
+            webVitals.getFCP(sendVital);
+            webVitals.getTTFB(sendVital);
+        });
+    }
+</script>
+<script type="application/ld+json">{
+        "@context": "https://schema.org",
+        "@type": "ImageObject",
+        "author": { "@type": "Person", "name": "stealth_sly" },
+        "contentUrl": "https://cdn.pixabay.com/photo/2017/09/04/11/53/diamonds-2713667_1280.jpg",
+        "thumbnail": { "@type": "ImageObject", "url": "https://cdn.pixabay.com/photo/2017/09/04/11/53/diamonds-2713667_640.jpg" },
+        "datePublished": "2017-09-04T12:45:07+00:00",
+        "name": "Diamonds Heart White \u002D Free photo on Pixabay",
+        "caption": "Diamonds Heart White \u002D Free photo on Pixabay",
+        "description": "Download this free photo of Diamonds Heart White from Pixabay\u0027s vast library of royalty\u002Dfree stock images, videos and music.",
+        "license": "https://pixabay.com/service/license/",
+        "width": "1280px",
+        "height": "1008px",
+        "isAccessibleForFree": true,
+        "isFamilyFriendly": true,
+        "representativeOfPage": true
+    }</script>
+<script>
+        var show_captcha=0, auth_user=1;
+        
+            if ($(window).innerWidth() > 767) document.write('<script src="//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId=114593902037957" async defer><\/script>');
+            else $('#fb_like_widget').hide();
+        
+
+        if (!window.PX) window.PX = {};
+
+        window.PX.media_type = 'photo';
+        window.PX.media_id = 2713667;
+    </script>
+
+<script>
+            function createCanvaDesign(type) {
+    if (!window.canvaApi) return;
+
+    window.canvaApi.createDesign({
+        design: {
+            type,
+            media: {
+                id: 'MADQ5LeteeU'
+            }
+        },
+        onDesignOpen: function () {
+            window.dataLayer = window.dataLayer || [];
+            window.dataLayer.push({
+                event: 'canva_button_click',
+                mediaType: 'photo',
+                mediaId: '2713667',
+                designType: type
+            });
+        },
+        onDesignPublish: function (design) {
+            window.dataLayer = window.dataLayer || [];
+            window.dataLayer.push({
+                event: 'canva_button_design_publish',
+                mediaType: 'photo',
+                mediaId: '2713667',
+                designType: type
+            });
+
+            
+                window.grecaptcha.execute('6LeyhLIaAAAAAI8XfF3RoG62z0L0RLUrgGVb1p_z').then(function(token) {
+                    $.post(
+                        '/media/increment-downloads/photo/2713667/',
+                        { 'g-recaptcha-response': token }
+                    );
+                }).catch(function(error) {
+                    // no-op - recaptcha failure means download stats are not incremented
+                });
+            
+
+            // trigger download
+            window.location.href = design.exportUrl;
+        }
+    });
+}
+
+function setupShowMoreMenu() {
+    // handle "Show more" click
+    $('.canva-button-menu button').on('click', function(e) {
+        e.stopPropagation();
+        const type = $(this).data('type');
+        $('.canva-button-menu').slideUp(100);
+        createCanvaDesign(type);
+    });
+
+    // handle mouse click away from menu to close
+    $(document).on('click', function (e) {
+        if ($('.canva-button-menu').css('display') === 'none') return;
+
+        const menu = document.querySelector('.canva-button-menu');
+
+        if (menu === e.target) return;
+        if (e.target.closest('.canva-button-menu')) return;
+        if (e.target.classList.contains('canva-show-more')) return;
+
+        $(menu).slideUp(100);
+    });
+
+    // handle escape key to close menu
+    $(document).on('keyup', function (e) {
+        if (e.key === 'Escape' && $('.canva-button-menu').css('display') !== 'none') {
+            $('.canva-button-menu').slideUp(100);
+        }
+    });
+}
+
+((document, url) => {
+    const script = document.createElement("script");
+    script.src = url;
+    script.onload = function () {
+        if (!window.Canva || !window.Canva.DesignButton) {
+            return;
+        }
+
+        window.Canva.DesignButton.initialize({
+            apiKey: "qLik5DGdGPkeAUq-Rm1K1SD4",
+            autoAuthToken: "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJxTGlrNURHZEdQa2VBVXEtUm0xSzFTRDQiLCJzdWIiOiIyNzQyOTYxM18yMDIyMDcwNiIsImlhdCI6MTY1NzE0MjA1MSwiZXhwIjoxNjU3MTQ1NjUxLCJ1c2VyX2V4cGlyeV9kYXRlIjoxNjU3MjI4NDUxMDAwfQ.aYoiUJ7W5i9Gj0VJDKlXmCQEFQAiNle3fjHNhIMcfMg",
+        }).then(function (api) {
+            window.canvaApi = api;
+            $('.canva-instagram').on('click', function () {
+                createCanvaDesign('InstagramPost');
+            });
+            $('.canva-facebook').on('click', function () {
+                createCanvaDesign('FacebookPost');
+            });
+            $('.canva-presentation').on('click', function () {
+                createCanvaDesign('Presentation');
+            });
+            $('.canva-show-more').on('click', function() {
+                $('.canva-button-menu').slideDown(100);
+            });
+
+            setupShowMoreMenu();
+        });
+    };
+    document.body.appendChild(script);
+})(document, "https://sdk.canva.com/designbutton/v2/api.js");
+        </script>
+<script>
+        $(document).ready(function() {
+            
+            if ('URLSearchParams' in window) {
+                let searchParams = new URLSearchParams(window.location.search)
+                if (searchParams.has('download') && window.localStorage) {
+                    const resolution = window.localStorage.getItem('resolution');
+                    if (resolution === null) return
+                    $(`tr:contains(${resolution})`).click();
+                    $('.dl_btn')[0].click();
+                    loadAttributionOverlay();
+                }
+            }
+        });
+    </script>
+<div class="recaptcha-footer">
+This site is protected by reCAPTCHA and the Google
+<a href="https://policies.google.com/privacy">Privacy Policy</a> and
+<a href="https://policies.google.com/terms">Terms of Service</a> apply.
+</div>
+</body>
+</html>
