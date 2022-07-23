@@ -1612,20 +1612,73 @@ body, button, input {
 
 /* Terms */
 
-.terms{
-  background-color: var(--grey2);
-  position: relative;
+.terms-box{
+  margin: 0;
+  padding: 0;
+  background-color:var(--grey2);
+  min-height: 100vh;
+  display: flex;
   align-items: center;
   justify-content: center;
-  height: calc(100vh - 6rem);
-  margin: 0 4rem;
-  overflow: hidden;
-  display: flex;
-  
-}
+  }
 
-.terms h1{
-  text-align: center;
-  top: 50%;
-  left: 50%;
-}
+  .terms-text {
+    padding: 0 10px;
+    height: 800px;
+    overflow-y: auto;
+    font-size: 14px;
+    font-weight: 500; 
+  }
+  .terms-text::-webkit-scrollbar{
+    width: 2px;
+    background-color: white;
+  }
+  .terms-text::-webkit-scrollbar-thumb{
+    background-color: var(--pink);
+  }
+  .terms-text h2{
+    text-transform: uppercase;
+  }
+  .terms-box h4{
+    font-size: 13px;
+    text-align: center;
+    padding: 0 40px;
+  }
+
+  .terms-box h4 span{
+    color: var(--pink);
+  }
+  .buttons{
+    display: flex;
+    padding: 50px;
+    justify-content: space-between;
+  }
+  .btn{
+    height: 50px;
+    width: calc(50% - 6px);
+    border: 0;
+    border-radius: 6px;
+    font-size: 19px;
+
+  }
+
+
+  /*.container {
+    flex: 0 1 700px;
+    margin: auto;
+    padding: 10px;
+  }
+   
+  .screen {
+    position: relative;
+    background: ---pink;
+    border-radius: 15px;
+  }*/
+
+
+
+
+
+
+ 
+
