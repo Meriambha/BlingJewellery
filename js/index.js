@@ -133,7 +133,7 @@ let update = (id,item) =>{
     
 
     
-    console.log(id);
+    /*console.log(id);*/
 }
 
 
