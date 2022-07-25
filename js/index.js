@@ -57,7 +57,7 @@ let shopItemsData = [ {
 }]
 
 
-let basket = [];
+let basket = JSON.parse(localStorage.getItem("data")) || [];
 
 let generateShop =()=>{
     return (shop.innerHTML=shopItemsData.map(function(x){
@@ -136,6 +136,16 @@ let update = (id,item) =>{
     /*console.log(id);*/
 }
 
+let calculation = () => {
+    let cartIcon = document.getElementById("cartAmount");
+    cartIcon.innerHTML = basket.map((x) => x.item).reduce((x, y) => x + y, 0);
+  };
+  
 
+  let clearCart = () => {
+    basket = [];
+    generateCartItems();
+    localStorage.setItem("data", JSON.stringify(basket));
+  };
 
 
