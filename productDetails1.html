@@ -10,17 +10,18 @@
     />
     <!-- Custom StyleSheet -->
     <link rel="stylesheet" href="./css/styles.css" />
-    <title>Your Cart</title>
+    <title>Details</title>
   </head>
+
   <body>
     <!-- Navigation -->
     <div class="top-nav">
       <div class="container d-flex">
         <p>Order Online Or Call Us: (001) 2222-55555</p>
         <ul class="d-flex">
-          <li><a href="about.html">About Us</a></li>
+          <li><a href="#">About Us</a></li>
           <li><a href="#">FAQ</a></li>
-          <li><a href="contact.html">Contact</a></li>
+          <li><a href="#">Contact</a></li>
         </ul>
       </div>
     </div>
@@ -85,44 +86,62 @@
       </div>
     </div>
 
-    <!-- Cart Items -->
-    <div class="container cart" id="cart">
-    </div>
-      <div class="total-price">
-        <table> 
-          <tr>
-            <td>Subtotal</td>
-            <td>$<span id="Subtotal">0</span></td>
-          </tr>
-          <tr>
-            <td>Tax</td>
-            <td>$<span id="Tax">0</td>
-          </tr>
-          <tr>
-            <td>Total</td>
-            <td><span id="TotalTopay">0</span></td>
-          </tr>
-        </table>
-        <a href="#" class="checkout btn">Proceed To Checkout</a>
+    <!-- Product Details -->
+    <section class="section product-detail">
+      <div class="details container">
+        <div class="left image-container">
+          <div class="main">
+            <img src="./images/watch1.png" id="zoom" alt="" />
+          </div>
+        </div>
+        <div class="right">
+          <span>Accessories</span>
+          <h1>Diamond watch</h1>
+          <div class="price">$5000</div>
+          <form>
+            <div>
+              <select>
+                <option value="Select Size" selected disabled>
+                  Select Size
+                </option>
+                <option value="1">32</option>
+                <option value="2">42</option>
+                <option value="3">52</option>
+                <option value="4">62</option>
+              </select>
+              <span><i class="bx bx-chevron-down"></i></span>
+            </div>
+          </form>
+          <form class="form">
+            <input type="text" placeholder="1" />
+            <a href="cart.html" class="addCart">Add To Cart</a>
+          </form>
+          <h3>Product Detail</h3>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero minima
+            delectus nulla voluptates nesciunt quidem laudantium, quisquam
+            voluptas facilis dicta in explicabo, laboriosam ipsam suscipit!
+          </p>
+        </div>
       </div>
-    
+    </section>
 
-    <!-- Latest Products -->
+    <!-- Related -->
     <section class="section featured">
       <div class="top container">
-        <h1>Latest Products</h1>
+        <h1>Related Products</h1>
         <a href="#" class="view-more">View more</a>
       </div>
       <div class="product-center container">
         <div class="product-item">
           <div class="overlay">
             <a href="" class="product-thumb">
-              <img src="./images/Ring.png" alt="" />
+              <img src="./images/watch1.png" alt="" />
             </a>
           </div>
           <div class="product-info">
-            <span>Diamond's Ring</span>
-            <a href="">Diamond's Ring</a>
+            <span>Women collection</span>
+            <a href="">Diamond watch</a>
             <h4>$150</h4>
           </div>
           <ul class="icons">
@@ -139,7 +158,7 @@
             <span class="discount">40%</span>
           </div>
           <div class="product-info">
-            <span>Diamond's Ring</span>
+            <span>Women collection</span>
             <a href="">Diamond's Ring</a>
             <h4>$150</h4>
           </div>
@@ -152,12 +171,12 @@
         <div class="product-item">
           <div class="overlay">
             <a href="" class="product-thumb">
-              <img src="./images/watch1.png" alt="" />
+              <img src="./images/necklace.jpg" alt="" />
             </a>
           </div>
           <div class="product-info">
-            <span>Diamond's Ring</span>
-            <a href="">Diamond watch</a>
+            <span>Women collection</span>
+            <a href="">Diamond Nechlace</a>
             <h4>$150</h4>
           </div>
           <ul class="icons">
@@ -171,9 +190,10 @@
             <a href="" class="product-thumb">
               <img src="./images/earings.jpg" alt="" />
             </a>
+            <span class="discount">40%</span>
           </div>
           <div class="product-info">
-            <span>Diamond's Ring</span>
+            <span>Women collection</span>
             <a href="">Diamond Earings</a>
             <h4>$150</h4>
           </div>
@@ -185,7 +205,6 @@
         </div>
       </div>
     </section>
-
     <!-- Footer -->
     <footer class="footer">
       <div class="row">
@@ -194,7 +213,7 @@
           <a href="about.html">About us</a>
           <a href="contact.html">Contact Us</a>
           <a href="terms.html">Term & Conditions</a>
-          <a href="shipping.html">Shipping Guide</a>
+          <a href="#">Shipping Guide</a>
         </div>
         <div class="col d-flex">
           <h4>USEFUL LINK</h4>
@@ -212,8 +231,21 @@
         </div>
       </div>
     </footer>
-
     <!-- Custom Script -->
     <script src="./js/index.js"></script>
+    <script
+      src="https://code.jquery.com/jquery-3.4.0.min.js"
+      integrity="sha384-JUMjoW8OzDJw4oFpWIB2Bu/c6768ObEthBMVSiIx4ruBIEdyNSUQAjJNFqT5pnJ6"
+      crossorigin="anonymous"
+    ></script>
+    <script src="./js/zoomsl.min.js"></script>
+    <script>
+      $(function () {
+        console.log("hello");
+        $("#zoom").imagezoomsl({
+          zoomrange: [4, 4],
+        });
+      });
+    </script>
   </body>
 </html>

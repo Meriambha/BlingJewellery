@@ -31,7 +31,7 @@ let shopItemsData = [ {
     category: "Women",
     name:"Ring",
     price:1500,
-    image:"./images/d1.jpg"
+    image:"./images/Ring.png"
 }
 , {
     id:"2",
@@ -39,7 +39,7 @@ let shopItemsData = [ {
     category: "Women",
     name:"Ring",
     price:1500,
-    image:"./images/d1.jpg"
+    image:"./images/watch1.png"
 }, {
     id:"3",
     discount:"40%",
@@ -53,7 +53,7 @@ let shopItemsData = [ {
     category: "Women",
     name:"Ring",
     price:1500,
-    image:"./images/d1.jpg"
+    image:"./images/watche2.jpg"
 }]
 
 
