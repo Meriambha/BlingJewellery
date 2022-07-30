@@ -10,13 +10,14 @@
     />
     <!-- Custom StyleSheet -->
     <link rel="stylesheet" href="./css/styles.css" />
+    <link rel="stylesheet" href="./css/contact.css" />
     <title>Login</title>
   </head>
   <body>
     <!-- Navigation -->
     <div class="top-nav">
       <div class="container d-flex">
-        <p>Order Online Or Call Us: (001) 2222-55555</p>
+        <p>Order Online Or Call Us: (+48) 668050607</p>
         <ul class="d-flex">
           <li><a href="about.html">About Us</a></li>
           <li><a href="#">FAQ</a></li>
@@ -87,55 +88,29 @@
     
     <!-- contact form -->
 
-    <div class="background">
-        <div class="container">
-          <div class="screen">
-            <div class="screen-header">
-              <div class="screen-header-left">
-                <div class="screen-header-button close"></div>
-                <div class="screen-header-button maximize"></div>
-                <div class="screen-header-button minimize"></div>
-              </div>
-              <div class="screen-header-right">
-                <div class="screen-header-ellipsis"></div>
-                <div class="screen-header-ellipsis"></div>
-                <div class="screen-header-ellipsis"></div>
-              </div>
-            </div>
-            <div class="screen-body">
-              <div class="screen-body-item left">
-                <div class="app-title">
-                  <span>CONTACT</span>
-                  <span>US</span>
-                </div>
-                <div class="app-contact">CONTACT INFO : +48 668 050 607</div>
-              </div>
-              <div class="screen-body-item">
-                <div class="app-form">
-                  <div class="app-form-group">
-                    <input class="app-form-control" placeholder="NAME">
-                  </div>
-                  <div class="app-form-group">
-                    <input class="app-form-control" placeholder="EMAIL">
-                  </div>
-                  <div class="app-form-group">
-                    <input class="app-form-control" placeholder="CONTACT NO">
-                  </div>
-                  <div class="app-form-group message">
-                    <input class="app-form-control" placeholder="MESSAGE">
-                  </div>
-                  <div class="app-form-group buttons">
-                    <button class="app-form-button">CANCEL</button>
-                    <button class="app-form-button">SEND</button>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-       
-        </div>
-      </div>
+    <div class="overlay">
 
+        <form  class="formContact" onsubmit="event.preventDefault(); validateForm()">
+            <h1>Contact Us</h1>
+
+            <label for="name">Name :</label>
+            <input type="text" id="name" placeholder="Your name">
+            <small class="error"></small>
+
+            <label for="email">Name :</label>
+            <input type="text" id="email" placeholder="Your email">
+            <small class="error"></small>
+
+            <label for="message">Message :</label>
+            <textarea id="message" placeholder="Your message" rows=""></textarea>
+            <small class="error"></small>
+
+            <div class="center">
+                <input type="submit" value="Send message">
+                <p id="success"></p>
+            </div>
+        </form>
+    </div>
 
     <!-- Footer -->
     <footer class="footer">
@@ -152,7 +127,7 @@
           <a href="product.html">Online Store</a>
           <a href="#">Customer Services</a>
           <a href="#">Promotion</a>
-          <a href="#">Top Brands</a>
+          <a href="product.html">Top Brands</a>
         </div>
         <div class="col d-flex">
           <span><i class="bx bxl-facebook-square"></i></span>
@@ -165,6 +140,6 @@
     </footer>
 
     <!-- Custom Script -->
-    <script src="./js/index.js"></script>
+    <script src="./js/contact.js"></script>
   </body>
 </html>

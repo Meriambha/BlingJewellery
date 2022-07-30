@@ -1,0 +1,81 @@
+
+
+#overlay{
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    background-color: rgb(255, 0, 106, 0.4);
+}
+.overlay form{
+    max-width: 550px;
+    width: 90%;
+    background-color:white ;
+    margin: 5vh auto;
+    padding: 40px;
+    border-radius: 3px;
+    box-sizing: border-box;
+
+}
+
+.overlay form h1{
+    margin: 0;
+    text-align: center;
+}
+
+.overlay form label{
+    display: block;
+    margin: 20px 0;
+}
+
+.overlay form input, textarea{
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    outline: none;
+    resize: none;
+    border: none;
+    border-bottom: 1px solid #d3d3d3;
+}
+
+.overlay form input[type="text"]:focus,.overlay form textarea:focus {
+    border-bottom: 1px solid rgb(255, 0, 106);
+    
+}
+
+.overlay form textarea::-webkit-scrollbar {
+    width: 4px;
+}
+
+.overlay form textarea::-webkit-scrollbar-thumb {
+    background-color:rgb(255, 0, 106) ;
+}
+
+.center{
+    text-align: center;
+}
+
+.overlay form input[type="submit"] {
+    margin-top: 30px;
+    width: 90%;
+    max-width: 200px;
+    /*background: linear-gradient(to right, rgb(255, 0, 106), rgb(107, 7, 48));*/
+    background-color: #DFA5C4;
+    color: white;
+    font-size: 17px;
+    cursor: pointer;
+    border-radius: 3px;
+
+}
+
+.error{
+    color:red
+
+}
+
+.error-border{
+    border-bottom: 1px solid red;
+}
+
+#success{
+    color: green;
+}

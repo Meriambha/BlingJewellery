@@ -1,0 +1,1 @@
+localStorage.setItem("Wishlist",5)
