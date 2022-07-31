@@ -27,7 +27,7 @@ html {
 body {
   font-family: 'Roboto', sans-serif;
   font-size: 1.6rem;
-  background-color: var(--white);
+  background-color: var(--white);/* check this color later #e9d7d3*/
   color: var(--black);
   font-weight: 400;
   font-style: normal;
@@ -53,11 +53,7 @@ li {
   align-items: center;
 }
 
-/* 
-=================
-Header
-=================
-*/
+/* Header */
 
 .header {
   position: relative;
@@ -82,9 +78,9 @@ Header
 }
 
 /* 
-=================
+
 Navigation
-=================
+
 */
 .navigation {
   height: 6rem;
@@ -883,6 +879,17 @@ th:last-child {
   margin-bottom: 2rem;
 }
 
+.top-container{
+  
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  max-width: 120rem;
+  margin: 20px auto;
+  padding: 0 3rem;
+}
+
 @media only screen and (max-width: 996px) {
   .product-detail .left {
     width: 30rem;
@@ -1172,14 +1179,19 @@ th:last-child {
 
 #about{
   background-color: var(--grey2);
-  position: relative;
-  align-items: center;
-  justify-content: center;
   height: calc(100vh - 6rem);
   margin: 0 4rem;
   overflow: hidden;
-  display: flex;
-  
+  padding: 20px; 
+  text-align: center;
+}
+#about div{
+  margin: 20px 0;
+  padding: 20px 0;
+  text-align: left;
+}
+#about h2{
+  margin: 20px 0;
 }
 
 /* Terms */
@@ -1194,6 +1206,9 @@ th:last-child {
   justify-content: center;
   }
   .terms-text {
+    width: 80%;
+    margin: 0 auto;
+    line-height: 1.5;
     padding: 0 10px;
     height: 800px;
     overflow-y: auto;

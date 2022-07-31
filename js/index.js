@@ -1,6 +1,26 @@
 const hamburger = document.querySelector(".hamburger");
 const navList = document.querySelector(".nav-list");
 
+
+let heartNumber = document.getElementById('heartNumber');
+
+let cartNumber = document.getElementById('cartNumber');
+
+
+if (localStorage.getItem("cartList")== undefined){
+    cartNumber.innerHTML = "0";
+}
+else{
+    cartNumber.innerHTML = JSON.parse(localStorage.getItem("cartList")).length;
+}
+
+if (localStorage.getItem("wishList")== undefined){
+    heartNumber.innerHTML = "0";
+}
+else{
+    heartNumber.innerHTML = JSON.parse(localStorage.getItem("wishList")).length;
+}
+
 if(hamburger){
     hamburger.addEventListener("click",()=>{
         navList.classList.toggle("open")
@@ -25,46 +45,17 @@ if (popup) {
 
 
 let shop = document.getElementById("cart");
-let shopItemsData = [ {
-    id:"1",
-    discount:"40%",
-    category: "Women",
-    name:"Ring",
-    price:1500,
-    image:"./images/Ring.png"
-}
-, {
-    id:"2",
-    discount:"40%",
-    category: "Women",
-    name:"Ring",
-    price:1500,
-    image:"./images/watch1.png"
-}, {
-    id:"3",
-    discount:"40%",
-    category: "Women",
-    name:"Ring",
-    price:1500,
-    image:"./images/d1.jpg"
-}, {
-    id:"4",
-    discount:"40%",
-    category: "Women",
-    name:"Ring",
-    price:1500,
-    image:"./images/watche2.jpg"
-}]
+let shopItemsData = JSON.parse(localStorage.getItem("cartList"));
 
 
 let basket = JSON.parse(localStorage.getItem("data")) || [];
 
 let generateShop =()=>{
     return (shop.innerHTML=shopItemsData.map(function(x){
-        let {id, discount, category, name, price, image} = x;
+        let {id, disc, category, name, price, img} = x;
         return `
         <div class="cart-info" id="product-id-${id}">
-              <img src=${image} width="150" alt="" />
+              <img src=${img} width="150" alt="" />
               <div>
                 <p>${name}</p>
                 <span>Price: ${price}</span> <br /> 

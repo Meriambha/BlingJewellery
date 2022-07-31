@@ -4,7 +4,7 @@
     width: 100%;
     height: 100%;
     position: fixed;
-    background-color: rgb(255, 0, 106, 0.4);
+    background-color:#e9d7d3;
 }
 .overlay form{
     max-width: 550px;
@@ -68,7 +68,7 @@
 }
 
 .error{
-    color:red
+    color:red;
 
 }
 
